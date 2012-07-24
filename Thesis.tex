@@ -203,13 +203,6 @@
 \fancyhead[RE]{\leftmark}
 \fancyfoot[LE,RO]{\thepage}
 
-% Dutch style of paragraph formatting, i.e. no indents. 
-%\setlength{\parskip}{1.3ex plus 0.2ex minus 0.2ex}
-%\setlength{\parindent}{0pt}
-
-% Less detailed TOC
-%\setcounter{tocdepth}{1}
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -217,34 +210,28 @@
 	\newpage
 	\addcontentsline{toc}{chapter}{Πρόλογος}
 	\chapter*{Πρόλογος}
+	
+		\paragraph{}{Ειαγωγή********************************************************
+		}
 		
-		\paragraph{Κεφάλαιο \ref{κεφ.:Σύστημα και ενσωματωμένα συστήματα}} {Αναλύεται η έννοια του συστήματος και το επιστημονικό πεδίο των ενσωματωμένων συστημάτων.\cite{SMSpacecraft}
-		***********************************************************
+		\paragraph{Κεφάλαιο \ref{κεφ.:Σύστημα και ενσωματωμένα συστήματα}} {Αναλύεται η έννοια του συστήματος και το επιστημονικό πεδίο των ενσωματωμένων συστημάτων. Εισάγονται βασικές έννοιες και δίδονται θεμελιώδεις ορισμοί για το αντικείμενο της παρούσης εργασίας. Επιπλέον παρατείθεται η ιστορική εξέλιξη των συστημάτων και των ενσωματωμένων και αναφέρεται το σημερινό πλαίσιο δραστηριοποίησης τους.
 		}
-		\paragraph{Κεφάλαιο \ref{κεφ.:Μοντελοποίηση συστημάτων}} { Τεκμιριώνεται ο ορισμός της μοντελοποίησης συστημάτων και η χρησιμότητα αυτής στο μηχανικό συστημάτων.
-		***********************************************************
+		\paragraph{Κεφάλαιο \ref{κεφ.:Μοντελοποίηση συστημάτων}} {Τεκμηριώνεται ο ορισμός της μοντελοποίησης συστημάτων και η χρησιμότητα αυτής στο μηχανικό συστημάτων. Παρουσιάζονται τα βασικά χαρακτηριστικά της τεχνικής αυτής και ο τρόπος με τον οποίο χρησιμοποιείται. Στη συνέχεια παρατίθενται οι κυριότερες μεθοδολογίες μοντελοποίησης συστημάτων με μία σύντομη ανάλυση τους.
 		}
-		\paragraph{Κεφάλαιο \ref{κεφ.:Μεθοδολογίες μοντελοποίησης συστημάτων}} {Παρατίθενται οι κυριότερες μεθοδολογίες μοντελοποίησης συστημάτων με μία σύντομη ανάλυση τους.
-		***********************************************************
+		\paragraph{Κεφάλαιο \ref{κεφ.:Γλώσσες μοντελοποίησης συστημάτων}} {Ως λογική συνέχεια του προηγουμένου κεφαλαίου παρουσιάζονται οι κυριότερες γλώσσες  μοντελοποίησης συστημάτων με τα κυριότερα στοιχεία τους τους. Επιπλέον τεκμηριώνεται η επιλογή της SysML για την εργασία αυτή.
 		}
-		\paragraph{Κεφάλαιο \ref{κεφ.:Γλώσσες μοντελοποίησης συστημάτων}} {Σε συνδυασμό του προηγουμένου κεφαλαίου παρατίθενται οι κυριότερες γλώσσες  μοντελοποίησης συστημάτων με μία σύντομη ανάλυση τους. Επιπλέον τεκμηριώνεται η επιλογή της SysML για την εργασία αυτή.
-		***********************************************************
+		\paragraph{Κεφάλαιο \ref{κεφ.:Γλώσσα SyML}} {Στο κεφάλαιο αυτό επιχειρείται μία αναλυτική εισαγωγή στη SysML. Παρουσιάζονται κάποια ιστορικά στοιχεία, τα δομικά διαγράμματα από τα οποία αποτελείται και πώς αυτά αξιοποιούνται μέσα από τη λόγική της.
 		}
-		\paragraph{Κεφάλαιο \ref{κεφ.:Γλώσσα SyML}} {Αρχικά, δίνεται μια σύντομη εισαγωγή της SysML και παρουσιάζονται κάποια ιστορικά στοιχεία.
-		***********************************************************
-		}
-		\paragraph{Κεφάλαιο \ref{κεφ.:Πρώτο πεδίο εφαρμογής : MPS System}} {Αρχικά δίνεται η περιγραφή του συστήματος FestoMPS. To Festo MPS είναι ένα σύστημα γραμμής παραγωγής το οποίο αναπτύχθηκε από την εταιρεία Festo και χρησιμοποιείται για εκπαιδευτικούς και ερευνητικούς σκοπούς. Αποτελείται από τέσσερα υποσυστήματα, τη μονάδα διανομής, τη μονάδα ελέγχου, τη μονάδα επεξεργασίας και τη μονάδα αποθήκευσης. Αρχικά δίνεται μια γενική περιγραφή του συστήματος και στη συνέχεια περιγράφεται η κάθε μονάδα αναλυτικά. Στη συνέχεια παρατίθεται η σχεδίαση του συστήματος με τη γλώσσα Sysml και αναπτύσσονται τα μοντέλα που κατασκευάστηκαν για το σκοπό αυτό. Η πλήρη υλοποίηση του συστήματος αυτού παρουσιάζεται στο παράρτημα \ref{κεφ.:Παράρτημα Festo MPS System}.
+		\paragraph{Κεφάλαιο \ref{κεφ.:Πρώτο πεδίο εφαρμογής : MPS System}} {Αρχικά δίνεται μια γενική περιγραφή του συστήματος και στη συνέχεια περιγράφεται η κάθε μονάδα αναλυτικά. Στη συνέχεια παρατίθεται η σχεδίαση του συστήματος με τη γλώσσα Sysml και αναπτύσσονται τα μοντέλα που κατασκευάστηκαν για το σκοπό αυτό. Η πλήρη υλοποίηση του συστήματος αυτού παρουσιάζεται στο παράρτημα \ref{κεφ.:Παράρτημα Festo MPS System}.
 		}
 		\paragraph{Κεφάλαιο \ref{κεφ.:Δεύτερο πεδίο εφαρμογής : Takos System}} {Η πλήρη υλοποίηση του συστήματος αυτού παρουσιάζεται στο παράρτημα \ref{κεφ.:Παράρτημα Takos System}.
 		***********************************************************
 		}
 		\paragraph{Κεφάλαιο \ref{κεφ.:Συμπεράσματα}} {Στο κεφάλαιο αυτό αναλύονται τα συμπεράσματα που προέκυψαν από την διπλωματική εργασία. Αναλύονται τα πλεονεκτήματα και τα μειονεκτήματα που επιβεβαιώθηκαν από την εφαρμογή της Sysml καθώς και οι διαπιστώσεις του γράφοντα από την εμπειρία της κατασκευής των δύο συστημάτων.
 		}
-		\paragraph{Κεφάλαιο \ref{κεφ.:Συσχετιζόμενες εργασίες}} {***********************************************************
-		}
 		\paragraph{Κεφάλαιο \ref{κεφ.:Προοπτικές}} {Καταγράφονται οι προοπτικές της μοντελοποίησης συστημάτων και πιο συγκεκριμένα της γλώσσας περιγραγής Sysml όπως αυτές προκύπτουν από εργασίες επιστημόνων και μηχανικών καθώς και πώς μπορεί να εξελιχθούν τα συμπεράσματα της διπλωματικής αυτής εργασίας.
 		}
-		\paragraph{} {Ολοκληρώνοντας, ακολουθούν τα παραστήματα των δύο περιπτώσεων χρήσης όπου παρατίθενται τα διαγράμματα που κατασκευάστηκαν για την υλοποίησή τους και οποιαδήποτε επιπλέον πληροφορία, η ελληνόγλωσση και ξενόγλωσση βιβλιογραφία -\ref{κεφ.:Ελληνόγλωσση Βιβλιογραφία} και \ref{κεφ.:Ξενόγλωσση Βιβλιογραφία}- , γλωσσάρι \ref{κεφ.:Γλωσσάρι}, λίστα συντομογραφιών \ref{κεφ.:Συντομογραφίες}, λεξικό αγγλικών όρων \ref{κεφ.:Λεξικό αγγλικών όρων} και ευρετήριο \ref{κεφ.:Ευρετήριο}.
+		\paragraph{} {Ολοκληρώνοντας, ακολουθούν τα παραστήματα των δύο περιπτώσεων χρήσης όπου παρατίθενται τα διαγράμματα που κατασκευάστηκαν για την υλοποίησή τους και οποιαδήποτε επιπλέον πληροφορία. Ακολουθεί ελληνόγλωσση και ξενόγλωσση βιβλιογραφία -\ref{κεφ.:Ελληνόγλωσση Βιβλιογραφία} και \ref{κεφ.:Ξενόγλωσση Βιβλιογραφία}- , γλωσσάρι \ref{κεφ.:Γλωσσάρι}, λίστα συντομογραφιών \ref{κεφ.:Συντομογραφίες}, λεξικό αγγλικών όρων \ref{κεφ.:Λεξικό αγγλικών όρων} και ευρετήριο \ref{κεφ.:Ευρετήριο}.
 		}
 
 
@@ -259,6 +246,28 @@
 %%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		\section{Εισαγωγή στις έννοιες συστημάτων και ενσωματωμένων}
+		
+		\subsection{Σύστημα}
+			\paragraph{}{Σύστημα είναι
+			}
+			\paragraph{}{Από τη \acrshort{NASA} έχουμε τον εξής ορισμό \cite{NASASystemsEngineeringHandbook} :
+				\begin{quote}
+					\begin{itemize}
+						\item[1] The combination of elements that function together to produce the capability to meet a need. The elements include all hardware, software, equipment, facilities, personnel, processes, and procedures needed for this purpose.
+						\item[2] The end product (which performs operational functions) and enabling products (which provide life-cycle support services to the operational end products) that make up a system.
+					\end{itemize}
+				\end{quote}
+			}
+			
+			\paragraph{}{Από τη \acrshort{INCOSE} έχουμε τον εξής ορισμό \cite{EngineeringComplexSystemsWithModelsAndObjects} :
+				\begin{quote}
+					A system is a thing built from many other things, components, which interact for a common purpose. If an engineer is to define a system he must describe its context, its behavior or purpose, and its structure. 
+				\end{quote}
+			}
+		
+		\subsection{Σύστημα Ενσωματωμένο}
+			\paragraph{}{Ενσωματωμένο σύστημα είναι
+			}
 		
 			\begin{description}
 				\item [Systems Engineering] is an interdisciplinary approach and means to enable the realization of successful systems. It focuses on defining customer needs and required functionality  early in the development cycle, documenting requirements, and then proceeding with design synthesis  and system validation while considering the complete problem. Systems Engineering considers both  the business and the technical needs of all customers with the goal of providing a quality product  that meets the user needs. \cite{IncoseSEH}
@@ -404,26 +413,26 @@
 				\end{itemize}
 				
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	\chapter{Μεθοδολογίες μοντελοποίησης συστημάτων}
+	section{Μεθοδολογίες μοντελοποίησης συστημάτων}
 		\label{κεφ.:Μεθοδολογίες μοντελοποίησης συστημάτων}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								Υποενότητα		   					   %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
-		\section{Ακμάζουσες MBSE μεθοδολογίες}
+		\subsection{Ακμάζουσες MBSE μεθοδολογίες}
 		
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   							Υποενότητα		   					   %%%%%%%%%%%%%%%%%%%%
-			\subsection{IBM Telelogic Harmony-SE}
-			\subsection{INCOSE Object-Oriented Systems Engineering Method (OOSEM)}
-			\subsection{IBM Rational Unified Process for Systems Engineering (RUP SE) for Model-Driven Systems Development (MDSD)}
-			\subsection{Vitech Model-Based System Engineering (MBSE) Methodology}
-			\subsection{JPL State Analysis (SA)}
-			\subsection{Dori Object-Process Methodology (OPM)}
-			\subsection{Department of Defense Architecture Framework (DoDAF)}
+			\subsubsection{IBM Telelogic Harmony-SE}
+			\subsubsection{INCOSE Object-Oriented Systems Engineering Method (OOSEM)}
+			\subsubsection{IBM Rational Unified Process for Systems Engineering (RUP SE) for Model-Driven Systems Development (MDSD)}
+			\subsubsection{Vitech Model-Based System Engineering (MBSE) Methodology}
+			\subsubsection{JPL State Analysis (SA)}
+			\subsubsection{Dori Object-Process Methodology (OPM)}
+			\subsubsection{Department of Defense Architecture Framework (DoDAF)}
 	
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
@@ -516,6 +525,34 @@
 		
 			\paragraph{} {Για την υλοποίηση των απαραίτητων μοντέλων χρησιμοποιήθηκε η πλατφόρμα ανάπτυξης Eclipse\footnote{http://www.eclipse.org/} σε συνδυασμό με το περιβάλλον ανάπτυξης κρίσιμων ενσωματωμένων συστημάτων Topcased\footnote{http://www.topcased.org/}.
 			}
+			
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\section{Συσχετιζόμενες εργασίες}
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
+		\subsection{Σχεδίαση βάση εξομείωσης}
+			\paragraph{Η σχεδίαση βάση εξομείωσης} {ή κατά την αγγλική ορολογία simulation-based design μπορεί να βασιστεί στα διαγράμματα παραμέτρων που παράγονται με τη SysML και να εξομειωθούν με τα κατάλληλα εργαλία. \cite{SimBasedDesignP1} και \cite{SimBasedDesignP2}
+			}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%			
+		\subsection{SoC, SysML and SystemC}
+			\paragraph{Copying from \cite{SoCSysMLSystemC} : } {In this paper we have presented a SysML profile for modeling Systems on a Chip oriented to SystemC transformation. We have shown that by means of SysML diagrams like BDD, IBD, and Activity allocations it is possible to describe a SoC and then map the SoC descriptions to a SystemC code template which contains module definitions, port- and process declarations. We also described a possible SysML to SystemC transformation procedure based on XMI and XSLT rules that we would like to automate within our future work. The SysML-SystemC mapping has been also evaluated by means of a case study in the field of WSN and a possible SystemC code has been derived from SysML diagrams describing a Sensor Node. This work would like to give a first contribution towards a research topic that has not been investigated so far, namely SysML to SystemC transformation. In fact there is a lot of research works available in the field of UML to SystemC, but nothing within SysML to SystemC. Since we strongly believe that SysML is a very suitable modeling language for SoC design, we think that the transformation from SysML to SystemC is a very important step within an early system design phase.
+			}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%			
+		\subsection{The processing system paradigm}
+			\paragraph{Copying from \cite{ProcessingSysPar}} {Model-based systems engineering and graphical notations have an enormous potential for increasing design productivity, system quality and lifetime by shifting the bulk of design efforts to early phases. In spite of that this is hardly questioned, the shift towards model-based approaches has not come to a break through, as we are experiencing in software engineering. It is believed that a major reason is lack of a common system view that can act as a framework for developing modelling languages and methods for a broad community of system engineers. This paper suggests such a framework. It identifies the systems of concern as a processing system that consist of a process control system and a resource system, and applies two related views on processing systems: A functional view and a solution view. The framework has been successfully tested on telecommunication systems and networks for some years. It is believed that it holds for many other system domains as well.
+			}
+			
+		\subsection{Ανάπτυξη εργαλείων σύνδεσης διαφορετικών επιστημονικών πεδίων και Έρευνα στο μετασχηματισμό μοντέλων από το ένα εργαλείο στο άλλο.}
 		
 		
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1172,12 +1209,7 @@
 			\end{itemize}
 			
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	\chapter{Συσχετιζόμενες εργασίες}
-		\label{κεφ.:Συσχετιζόμενες εργασίες}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
@@ -1211,6 +1243,8 @@
 		
 		\paragraph{} {********************************************************************
 		}
+		
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
