@@ -382,6 +382,27 @@
   \field{year}{2008}
 \endentry
 
+\entry{EIA632}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Geia}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{G1}
+  \strng{fullhash}{G1}
+  \field{sortinit}{G}
+  \field{hyphenation}{english}
+  \field{title}{EIA-632}
+  \list{institution}{1}{%
+    {Geia, A Sector of the Electronic Industries Alliance}%
+  }
+  \field{type}{Standard}
+  \field{year}{1999}
+\endentry
+
 \entry{SysMLDigitalEngineering}{inproceedings}{}
   \name{author}{5}{}{%
     {{}%
