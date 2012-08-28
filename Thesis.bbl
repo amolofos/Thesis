@@ -16,6 +16,17 @@
   {}
 \endgroup
 
+\entry{PontDuGard}{online}{}
+  \keyw{english}
+  \field{sortinit}{A}
+  \field{hyphenation}{english}
+  \field{note}{τελευταία προσπέλαση : 08-2012}
+  \field{title}{Adequeduct of Pont du Gard}
+  \verb{url}
+  \verb http://www.pontdugard.fr/en
+  \endverb
+\endentry
+
 \entry{NASASystemsEngineeringHandbook}{book}{}
   \name{author}{2}{}{%
     {{}%
@@ -41,6 +52,53 @@
   \field{title}{Systems Engineering Handbook}
   \field{month}{12}
   \field{year}{2007}
+\endentry
+
+\entry{ΜηχανισμόςΑντικυθήρωνWikipedia}{online}{}
+  \keyw{english}
+  \field{sortinit}{A}
+  \field{hyphenation}{english}
+  \field{note}{τελευταία προσπέλαση : 08-2012}
+  \field{title}{Anticythira Mechanism}
+  \verb{url}
+  \verb http://commons.wikimedia.org/wiki/File:NAMA_Machine_d%27Anticyth%C3%A8r
+  \verb e_1.jpg
+  \endverb
+\endentry
+
+\entry{MiddleStoneAgeBoneToolsFromTheHowiesonsPoortLayers}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Backwell}{B.}%
+     {Lucinda}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {d'Errico}{d.}%
+     {Francesco}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wadley}{W.}%
+     {Lyn}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{BLdFWL1}
+  \strng{fullhash}{BLdFWL1}
+  \field{sortinit}{B}
+  \field{hyphenation}{english}
+  \field{number}{6}
+  \field{title}{Middle Stone Age bone tools from the Howiesons Poort layers,
+  Sibudu Cave, South Africa}
+  \verb{url}
+  \verb http://www.sciencedirect.com/science/article/pii/S0305440307002142
+  \endverb
+  \field{volume}{35}
+  \field{journaltitle}{Journal of Archaeological Science}
+  \field{year}{2008}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{FoundationalConceptsMDSD}{report}{}
@@ -122,6 +180,116 @@
   \field{volume}{45}
   \field{journaltitle}{IBM Systems Journal}
   \field{year}{2006}
+\endentry
+
+\entry{ClothesMakeTheHuMan}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Balter}{B.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{BM1}
+  \strng{fullhash}{BM1}
+  \field{sortinit}{B}
+  \field{hyphenation}{english}
+  \field{number}{5946}
+  \field{title}{Clothes Make the (Hu) Man}
+  \verb{url}
+  \verb http://www.sciencemag.org/content/325/5946/1329.1.full
+  \endverb
+  \field{volume}{325}
+  \field{journaltitle}{Science}
+  \field{year}{2009}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{EssaysInTektology:Bogdanov1984}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bogdanov}{B.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{translator}{1}{}{%
+    {{}%
+     {Gorelik}{G.}%
+     {George}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {english}%
+  }
+  \list{publisher}{1}{%
+    {Intersystems Publications}%
+  }
+  \keyw{english}
+  \strng{namehash}{BA1}
+  \strng{fullhash}{BA1}
+  \field{sortinit}{B}
+  \field{edition}{2nd}
+  \field{hyphenation}{english}
+  \field{origlanguage}{german}
+  \field{series}{The Systems inquiry series}
+  \field{title}{Essays in tektology : the general science of organization}
+  \field{year}{1984}
+\endentry
+
+\entry{EngineeringDesignOfSystemsModelsAndMethods:Buede2011}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Buede}{B.}%
+     {D.M.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley}%
+  }
+  \keyw{english}
+  \strng{namehash}{BD1}
+  \strng{fullhash}{BD1}
+  \field{sortinit}{B}
+  \field{hyphenation}{english}
+  \field{isbn}{9781118210376}
+  \field{series}{Wiley Series in Systems Engineering and Management}
+  \field{title}{The Engineering Design of Systems: Models and Methods}
+  \verb{url}
+  \verb http://books.google.gr/books?id=4gHqQIaVncMC
+  \endverb
+  \field{year}{2011}
+\endentry
+
+\entry{OperationalCircuitAnalysis:Bush1929}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Bush}{B.}%
+     {V.}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wiener}{W.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {J. Wiley \& sons, inc.}%
+  }
+  \keyw{english}
+  \strng{namehash}{BVWN1}
+  \strng{fullhash}{BVWN1}
+  \field{sortinit}{B}
+  \field{hyphenation}{english}
+  \field{title}{Operational circuit analysis}
+  \verb{url}
+  \verb http://books.google.gr/books?id=6hVHAAAAIAAJ
+  \endverb
+  \field{year}{1929}
 \endentry
 
 \entry{FestoChangerModuleManual}{manual}{}
@@ -348,6 +516,86 @@
   \field{year}{1999}
 \endentry
 
+\entry{OriginOfSpecies:Darwin1859}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Darwin}{D.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Murray}%
+  }
+  \keyw{english}
+  \strng{namehash}{DC1}
+  \strng{fullhash}{DC1}
+  \field{sortinit}{D}
+  \field{edition}{1st ed.}
+  \field{hyphenation}{english}
+  \field{title}{On the origin of species by means of natural selection: Or, the
+  preservation of favored races in the struggle for life}
+  \field{year}{1859}
+\endentry
+
+\entry{DiscourseΟnMethod:Descartes}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Descartes}{D.}%
+     {Rene}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Booksurge Llc}%
+  }
+  \keyw{english}
+  \strng{namehash}{DR1}
+  \strng{fullhash}{DR1}
+  \field{sortinit}{D}
+  \field{hyphenation}{english}
+  \field{isbn}{9781425009205}
+  \field{title}{Discourse on Method, 1637}
+  \verb{url}
+  \verb http://books.google.gr/books?id=XnX3xsR\_cvcC
+  \endverb
+  \field{year}{2006}
+\endentry
+
+\entry{ΛόγοςΠερίΤηςΜεθόδουDescartes1976}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Descartes}{D.}%
+     {Rene}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{translator}{1}{}{%
+    {{}%
+     {Χρηστίδης}{�.}%
+     {Χρ.}{�.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {greek}%
+  }
+  \list{publisher}{1}{%
+    {Παπαζήσης}%
+  }
+  \keyw{english}
+  \strng{namehash}{DR1}
+  \strng{fullhash}{DR1}
+  \field{sortinit}{D}
+  \field{edition}{2η έκδ. αναθ.}
+  \field{hyphenation}{greek}
+  \field{origlanguage}{french}
+  \field{title}{Λόγος περί της μεθόδου : για την
+  καλή καθοδήγηση του λογικού μας και την
+  αναζήτηση της αλήθειας στις επιστήμες}
+  \field{year}{1976}
+\endentry
+
 \entry{APracticalGuideToSysML}{book}{}
   \name{author}{3}{}{%
     {{}%
@@ -382,6 +630,64 @@
   \field{year}{2008}
 \endentry
 
+\entry{EconometricaEditorial:Frisch1933}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Frisch}{F.}%
+     {Ragnar}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The Econometric Society}%
+  }
+  \keyw{english}
+  \strng{namehash}{FR1}
+  \strng{fullhash}{FR1}
+  \field{sortinit}{F}
+  \field{hyphenation}{english}
+  \field{issn}{00129682}
+  \field{number}{1}
+  \field{pages}{pp. 1\bibrangedash 4}
+  \field{title}{Editor's Note}
+  \verb{url}
+  \verb http://www.jstor.org/stable/1912224
+  \endverb
+  \field{volume}{1}
+  \field{journaltitle}{Econometrica}
+  \field{year}{1933}
+\endentry
+
+\entry{AleksandrBogdanovAndSystemsTheory:Arran2000}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gare}{G.}%
+     {Arran}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{GA1}
+  \strng{fullhash}{GA1}
+  \field{sortinit}{G}
+  \verb{doi}
+  \verb 10.1080/10855660020020230
+  \endverb
+  \verb{eprint}
+  \verb http://www.tandfonline.com/doi/pdf/10.1080/10855660020020230
+  \endverb
+  \field{hyphenation}{english}
+  \field{number}{3}
+  \field{pages}{341\bibrangedash 359}
+  \field{title}{Aleksandr Bogdanov and Systems Theory}
+  \verb{url}
+  \verb http://www.tandfonline.com/doi/abs/10.1080/10855660020020230
+  \endverb
+  \field{volume}{6}
+  \field{journaltitle}{Democracy \& Nature}
+  \field{year}{2000}
+\endentry
+
 \entry{EIA632}{report}{}
   \name{author}{1}{}{%
     {{}%
@@ -401,6 +707,41 @@
   }
   \field{type}{Standard}
   \field{year}{1999}
+\endentry
+
+\entry{HowToDoSystemAnalysis:Gibson2007}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Gibson}{G.}%
+     {J.E.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scherer}{S.}%
+     {W.T.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gibson}{G.}%
+     {W.F.}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley}%
+  }
+  \keyw{english}
+  \strng{namehash}{GJSWGW1}
+  \strng{fullhash}{GJSWGW1}
+  \field{sortinit}{G}
+  \field{hyphenation}{english}
+  \field{isbn}{9780470130582}
+  \field{series}{Wiley Series in Systems Engineering and Management}
+  \field{title}{How to Do Systems Analysis}
+  \verb{url}
+  \verb http://books.google.gr/books?id=QAVgtzXbiDgC
+  \endverb
+  \field{year}{2007}
 \endentry
 
 \entry{SysMLDigitalEngineering}{inproceedings}{}
@@ -445,6 +786,73 @@
   \field{year}{2010}
 \endentry
 
+\entry{TheProbabilityApproachInEconometrics:Trygne1944}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haavelmo}{H.}%
+     {Trygve}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The Econometric Society}%
+  }
+  \keyw{english}
+  \strng{namehash}{HT1}
+  \strng{fullhash}{HT1}
+  \field{sortinit}{H}
+  \field{hyphenation}{english}
+  \field{issn}{00129682}
+  \field{pages}{pp. iii\bibrangedash vi+1\bibrangedash 115}
+  \field{title}{The Probability Approach in Econometrics}
+  \verb{url}
+  \verb http://www.jstor.org/stable/1906935
+  \endverb
+  \field{volume}{12}
+  \field{journaltitle}{Econometrica}
+  \field{year}{1944}
+\endentry
+
+\entry{LifeAndMechanism:Haldane1884}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haldane}{H.}%
+     {J.~S.}{J.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press on behalf of the Mind Association}%
+  }
+  \keyw{english}
+  \strng{namehash}{HJS1}
+  \strng{fullhash}{HJS1}
+  \field{sortinit}{H}
+  \field{hyphenation}{english}
+  \field{issn}{00264423}
+  \field{number}{33}
+  \field{pages}{pp. 27\bibrangedash 47}
+  \field{title}{Life and Mechanism}
+  \verb{url}
+  \verb http://www.jstor.org/stable/2246789
+  \endverb
+  \field{volume}{9}
+  \field{journaltitle}{Mind}
+  \field{year}{1884}
+\endentry
+
+\entry{AGreek-EnglishLexiconHenryGeorgeLiddellRobertScott}{article}{}
+  \keyw{english}
+  \field{sortinit}{H}
+  \field{hyphenation}{english}
+  \field{title}{Henry George Liddell, Robert Scott, A Greek-English Lexicon}
+  \verb{url}
+  \verb http://www.perseus.tufts.edu/hopper/
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{PhotosFestoMPSUniversityHalle}{online}{}
   \name{author}{2}{}{%
     {{}%
@@ -474,6 +882,33 @@
   \field{year}{2005}
 \endentry
 
+\entry{RescuingPrometheus}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hughes}{H.}%
+     {Thomas~Parke}{T.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \list{publisher}{1}{%
+    {Pantheon Books, New York}%
+  }
+  \keyw{english}
+  \strng{namehash}{HTP1}
+  \strng{fullhash}{HTP1}
+  \field{sortinit}{H}
+  \field{edition}{1st ed.}
+  \field{hyphenation}{english}
+  \field{isbn}{0679411518}
+  \field{pages}{372 p.}
+  \field{title}{Rescuing Prometheus}
+  \field{type}{Book}
+  \field{year}{1998}
+\endentry
+
 \entry{IncoseSEH}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -493,6 +928,58 @@
     {INCOSE}%
   }
   \field{year}{2006}
+\endentry
+
+\entry{ΕτυμολογικόΛεξικόΑρχαίαςΕλληνικής}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {J.B.}{J.}%
+     {Hofman}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{translator}{1}{}{%
+    {{}%
+     {Αντώνιος}{�.}%
+     {Παπανικολάου}{�.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {greek}%
+  }
+  \list{publisher}{1}{%
+    {McGraw-Hill}%
+  }
+  \keyw{english}
+  \strng{namehash}{JH1}
+  \strng{fullhash}{JH1}
+  \field{sortinit}{J}
+  \field{hyphenation}{english}
+  \field{origlanguage}{german}
+  \field{title}{Etymologisches W\"orterbuch des Griechischen}
+  \field{year}{1950}
+\endentry
+
+\entry{OriginAndEvolutionOfSystemsEngineering}{inbook}{}
+  \name{author}{1}{}{%
+    {{}%
+     {J.B.}{J.}%
+     {Hofman}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Incose}%
+  }
+  \keyw{english}
+  \strng{namehash}{JH1}
+  \strng{fullhash}{JH1}
+  \field{sortinit}{J}
+  \field{booktitle}{Systems Engineering Handbook}
+  \field{hyphenation}{english}
+  \field{title}{OriginAndEvolutionOfSystemsEngineering}
+  \field{year}{2000}
 \endentry
 
 \entry{ProcessingSysPar}{report}{}
@@ -547,6 +1034,87 @@
   }
 \endentry
 
+\entry{BeforeTheWhiteManWasMaster:Marks2000}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Marks}{M.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Southern Africa Documentation}%
+    {Cooperation Centre (SADOCC)}%
+  }
+  \keyw{english}
+  \strng{namehash}{MS1}
+  \strng{fullhash}{MS1}
+  \field{sortinit}{M}
+  \field{hyphenation}{english}
+  \field{isbn}{9783901446061}
+  \field{series}{Studien zum s{\"u}dlichen Afrika / Studien zum s{\"u}dlichen
+  Afrika}
+  \field{title}{Before "the White Man was Master and All White Men's Values
+  Prevailed"?: Jan Smuts, Race and the South African War ; [lecture Given on
+  the Invitation of the Institute of Economic and Social History and the
+  Institute of Africanistic Studies, Both at University of Vienna, and the
+  Southern Africa Documentation and Cooperation Centre (SADOCC) on 24th October
+  2000 in Vienna]}
+  \verb{url}
+  \verb http://www.sadocc.at/publ/marks.pdf
+  \endverb
+  \field{year}{2000}
+\endentry
+
+\entry{InstrumentalReasoningAndSystemsMethodologym:Mattessich1978}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mattessich}{M.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {D. Reidel Publishing Company}%
+  }
+  \keyw{english}
+  \strng{namehash}{MR1}
+  \strng{fullhash}{MR1}
+  \field{sortinit}{M}
+  \field{hyphenation}{english}
+  \field{isbn}{9789027710819}
+  \field{series}{Theory and Decision Library}
+  \field{title}{Instrumental Reasoning and Systems Methodology: An Epistemology
+  of the Applied and Social Sciences}
+  \verb{url}
+  \verb http://books.google.gr/books?id=hFylPwAACAAJ
+  \endverb
+  \field{year}{1978}
+\endentry
+
+\entry{HistoricalPerspectivesOnSystemsThinkingInEngineering}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mindell}{M.}%
+     {David~A.}{D.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{MDA1}
+  \strng{fullhash}{MDA1}
+  \field{sortinit}{M}
+  \field{hyphenation}{english}
+  \field{title}{Bodies, ideas and dynamics : Historical Perspectives on Systems
+  Thinking in Engineering}
+  \list{institution}{1}{%
+    {Massachusetts Institute of Technology, Engineering Systems Division}%
+  }
+  \field{type}{internal symbosium}
+  \field{year}{2002}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{JournalDefenseMogyorodi}{article}{}
   \name{author}{1}{}{%
     {{}%
@@ -566,6 +1134,35 @@
   \field{journaltitle}{Crosstalk, The Journal of Defense Software Engineering}
   \field{year}{03}
   \field{endyear}{2003}
+\endentry
+
+\entry{MechanisticExplanationAndOrganismicBiology:Nagel1951}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nagel}{N.}%
+     {Ernest}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {International Phenomenological Society}%
+  }
+  \keyw{english}
+  \strng{namehash}{NE1}
+  \strng{fullhash}{NE1}
+  \field{sortinit}{N}
+  \field{hyphenation}{english}
+  \field{issn}{00318205}
+  \field{number}{3}
+  \field{pages}{pp. 327\bibrangedash 338}
+  \field{title}{Mechanistic Explanation and Organismic Biology}
+  \verb{url}
+  \verb http://www.jstor.org/stable/2103537
+  \endverb
+  \field{volume}{11}
+  \field{journaltitle}{Philosophy and Phenomenological Research}
+  \field{year}{1951}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{EngineeringComplexSystemsWithModelsAndObjects}{book}{}
@@ -596,6 +1193,52 @@
   \field{hyphenation}{english}
   \field{title}{Engineering Complex Systems with Models and Objects}
   \field{year}{1997}
+\endentry
+
+\entry{Dictionary.com}{article}{}
+  \keyw{english}
+  \field{sortinit}{O}
+  \field{hyphenation}{english}
+  \field{title}{Online Etymology Dictionary}
+  \verb{url}
+  \verb http://dictionary.reference.com/
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{EngineeringDesignASystematicApproach:Pahl1996}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Pahl}{P.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Beitz}{B.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wallace}{W.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \keyw{english}
+  \strng{namehash}{PGBWWK1}
+  \strng{fullhash}{PGBWWK1}
+  \field{sortinit}{P}
+  \field{hyphenation}{english}
+  \field{isbn}{9783540199175}
+  \field{title}{Engineering Design: A Systematic Approach}
+  \verb{url}
+  \verb http://books.google.gr/books?id=8fuhesYeJmkC
+  \endverb
+  \field{year}{1996}
 \endentry
 
 \entry{SimBasedDesignP1}{inproceedings}{}
@@ -700,6 +1343,31 @@
   \field{year}{2007}
 \endentry
 
+\entry{SystemsTheoryADiscreditedPhilosophy:Phillips1969}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Phillips}{P.}%
+     {D.C.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{PD1}
+  \strng{fullhash}{PD1}
+  \field{sortinit}{P}
+  \verb{doi}
+  \verb 10.1111/j.1467-6281.1969.tb00157.x
+  \endverb
+  \field{hyphenation}{english}
+  \field{number}{1}
+  \field{pages}{3\bibrangedash 15}
+  \field{title}{Systems Theory — A Discredited Philosophy}
+  \field{volume}{5}
+  \field{journaltitle}{Abacus}
+  \field{year}{1969}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{SoCSysMLSystemC}{report}{}
   \name{author}{2}{}{%
     {{}%
@@ -767,8 +1435,9 @@
   \list{location}{1}{%
     {Singapore}%
   }
-  \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
+  \field{day}{14}
+  \field{month}{07}
+  \field{year}{2009}
 \endentry
 
 \entry{IntegratedApproachMBMechatronicDesign}{thesis}{}
@@ -831,6 +1500,115 @@
   \field{year}{2005}
 \endentry
 
+\entry{GeneralSystemsTheory:Skyttner2005}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Skyttner}{S.}%
+     {Lars}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Publishing Co. Pte. Ltd.}%
+  }
+  \keyw{english}
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{sortinit}{S}
+  \field{edition}{2nd}
+  \field{hyphenation}{english}
+  \field{subtitle}{Problems, Perspectives, Practice}
+  \field{title}{General Systems Theory}
+  \verb{url}
+  \verb http://books.google.gr/books?id=tG6QKNgYs9sC
+  \endverb
+  \field{year}{2005}
+\endentry
+
+\entry{HolismAndEvolution:Smuts1926}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Smuts}{S.}%
+     {Jan~Christiaan}{J.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Macmillan}%
+    {Co.}%
+  }
+  \keyw{english}
+  \strng{namehash}{SJC1}
+  \strng{fullhash}{SJC1}
+  \field{sortinit}{S}
+  \field{hyphenation}{english}
+  \field{title}{Holism and Evolution}
+  \field{year}{1926}
+\endentry
+
+\entry{SystemsThinking:STRIJBOS2010}{inbook}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Strijbos}{S.}%
+     {Sytse}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Frodeman}{F.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klein}{K.}%
+     {Julie~Thompson}{J.~T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mitcham}{M.}%
+     {Carl}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \keyw{english}
+  \strng{namehash}{SS1}
+  \strng{fullhash}{SS1}
+  \field{sortinit}{S}
+  \field{booktitle}{Oxford Handbook of Interdisciplinarity}
+  \field{hyphenation}{english}
+  \field{pages}{457\bibrangedash 460}
+  \field{title}{Systems thinking}
+  \field{year}{2010}
+\endentry
+
+\entry{PrinciplesOfScientificManagement:Taylor2004}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Taylor}{T.}%
+     {F.W.}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Kessinger Publishing}%
+  }
+  \keyw{english}
+  \strng{namehash}{TF1}
+  \strng{fullhash}{TF1}
+  \field{sortinit}{T}
+  \field{hyphenation}{english}
+  \field{isbn}{9781419178849}
+  \field{title}{The Principles Of Scientific Management}
+  \verb{url}
+  \verb http://books.google.gr/books?id=5lwuQxr2-jYC
+  \endverb
+  \field{year}{2004}
+\endentry
+
 \entry{MBSESystemArchitectureNavalShipDesign}{thesis}{}
   \name{author}{1}{}{%
     {{}%
@@ -851,6 +1629,69 @@
   }
   \field{type}{masterthesis}
   \field{year}{2010}
+\endentry
+
+\entry{GeneralSystemsTheory:Bertalanffy1972}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Von~Bertalanffy}{V.~B.}%
+     {Ludwig}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {George Brazilier, Inc}%
+  }
+  \keyw{english}
+  \strng{namehash}{VBL1}
+  \strng{fullhash}{VBL1}
+  \field{sortinit}{V}
+  \field{edition}{3rd}
+  \field{hyphenation}{english}
+  \field{subtitle}{Foundations, Development, Applications}
+  \field{title}{General System Theory}
+  \field{year}{1972}
+\endentry
+
+\entry{TheHistoryΑndStatusΟfGeneralSystemsTheory:Bertalanffy}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Von~Bertalanffy}{V.~B.}%
+     {Ludwig}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{VBL1}
+  \strng{fullhash}{VBL1}
+  \field{sortinit}{V}
+  \field{hyphenation}{english}
+  \field{number}{4}
+  \field{title}{The History and Status of General Systems Theory}
+  \field{volume}{15}
+  \field{journaltitle}{The Academy of Management Journal}
+  \field{year}{1972}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{OnTheLawWhichHasRegulatedTheIntroductionOfNewSpecies:Wallace1840}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wallace}{W.}%
+     {Alfred~Russel}{A.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{WAR1}
+  \strng{fullhash}{WAR1}
+  \field{sortinit}{W}
+  \field{hyphenation}{english}
+  \field{pages}{184\bibrangedash 196}
+  \field{title}{On the Law which has regulated the Introduction of New Species}
+  \field{volume}{2nd ser. v.16}
+  \field{journaltitle}{Annals and Magazine of Natural History}
+  \field{year}{1855}
 \endentry
 
 \entry{SMSpacecraft}{thesis}{}
@@ -904,6 +1745,19 @@
   \field{year}{2009}
 \endentry
 
+\entry{ΕπτάΘαύματαΑρχαίουΚόσμου}{online}{}
+  \keyw{greek}
+  \field{sortinit}{�}
+  \field{hyphenation}{greek}
+  \field{note}{τελευταία προσπέλαση : 08-2012}
+  \field{title}{Επτά θαύματα του αρχαίου κόσμου}
+  \verb{url}
+  \verb http://el.wikipedia.org/wiki/%CE%95%CF%80%CF%84%CE%AC_%CE%B8%CE%B1%CF%8
+  \verb D%CE%BC%CE%B1%CF%84%CE%B1_%CF%84%CE%BF%CF%85_%CE%B1%CF%81%CF%87%CE%B1%C
+  \verb E%AF%CE%BF%CF%85_%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%85
+  \endverb
+\endentry
+
 \entry{ΤοΦυσικόΣύστημαFestoMPS}{online}{}
   \name{author}{1}{}{%
     {{}%
@@ -927,6 +1781,17 @@
   Τεχνολογίας Υπολογιστών, Πανεπιστήμιο
   Πατρών}%
   }
+\endentry
+
+\entry{ΜηχανισμόςΑντικυθήρων}{online}{}
+  \keyw{greek}
+  \field{sortinit}{�}
+  \field{hyphenation}{greek}
+  \field{note}{τελευταία προσπέλαση : 08-2012}
+  \field{title}{Μηχανισμός των Αντικυθήρων}
+  \verb{url}
+  \verb http://www.antikythera-mechanism.gr/
+  \endverb
 \endentry
 
 \lossort

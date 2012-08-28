@@ -1,7 +1,10 @@
 This is makeindex, version 2.15 [TeX Live 2010] (kpathsea + Thai support).
 Scanning style file ./Thesis.ist...........................done (27 attributes redefined, 0 ignored).
-Scanning input file Thesis.glo....done (7 entries accepted, 0 rejected).
-Sorting entries....done (20 comparisons).
-Generating output file Thesis.gls....done (16 lines written, 0 warnings).
+Scanning input file Thesis.glo....
+!! Input index error (file = Thesis.glo, line = 9):
+   -- First argument too long (max 1024).
+done (12 entries accepted, 1 rejected).
+Sorting entries....done (41 comparisons).
+Generating output file Thesis.gls....done (22 lines written, 0 warnings).
 Output written in Thesis.gls.
 Transcript written in Thesis.glg.

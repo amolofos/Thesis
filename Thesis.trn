@@ -1,19 +1,22 @@
-\glossaryentry{φωτοκύτταρο?\glossaryentryfield{φωτοκύτταρο}{\glsnamefont{φωτοκύτταρο}}{through-beam sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{38}
-\glossaryentry{έμβολο πεπιεσμένου αέρα δύο κατευθύνσεων?\glossaryentryfield{έμβολο πεπιεσμένου αέρα δύο κατευθύνσεων}{\glsnamefont{έμβολο πεπιεσμένου αέρα δύο κατευθύνσεων}}{double-acting cylinder}{\relax }|setentrycounter[]{page}\glsnumberformat}{38}
-\glossaryentry{μονάδα μεταφοράς?\glossaryentryfield{μονάδα μεταφοράς}{\glsnamefont{μονάδα μεταφοράς}}{changer module}{\relax }|setentrycounter[]{page}\glsnumberformat}{38}
-\glossaryentry{βεντούζα?\glossaryentryfield{βεντούζα}{\glsnamefont{βεντούζα}}{suction cup}{\relax }|setentrycounter[]{page}\glsnumberformat}{38}
-\glossaryentry{αισθητήρας κενού?\glossaryentryfield{αισθητήρας κενού}{\glsnamefont{αισθητήρας κενού}}{vacuum switch}{\relax }|setentrycounter[]{page}\glsnumberformat}{38}
-\glossaryentry{βαλβίδα ελέγχου πεπιεσμένου αέρα μίας κατεύθυνσης?\glossaryentryfield{βαλβίδα ελέγχου πεπιεσμένου αέρα μίας κατεύθυνσης}{\glsnamefont{βαλβίδα ελέγχου πεπιεσμένου αέρα μίας κατεύθυνσης}}{one-way flow control valves}{\relax }|setentrycounter[]{page}\glsnumberformat}{41}
-\glossaryentry{μικροδιακόπτης?\glossaryentryfield{μικροδιακόπτης}{\glsnamefont{μικροδιακόπτης}}{micro switch}{\relax }|setentrycounter[]{page}\glsnumberformat}{42}
-\glossaryentry{αισθητήρας ανάκλασης?\glossaryentryfield{αισθητήρας ανάκλασης}{\glsnamefont{αισθητήρας ανάκλασης}}{retro-reflective sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{αναλογικός αισθητήρας?\glossaryentryfield{αναλογικός αισθητήρας}{\glsnamefont{αναλογικός αισθητήρας}}{analogue sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{γραμμικό έμβολο?\glossaryentryfield{γραμμικό έμβολο}{\glsnamefont{γραμμικό έμβολο}}{linear cylinder}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{πλατφόρμα κύλισης με εξομάλυνση αέρα?\glossaryentryfield{πλατφόρμα κύλισης με εξομάλυνση αέρα}{\glsnamefont{πλατφόρμα κύλισης με εξομάλυνση αέρα}}{air cushioned slide}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{πλατφόρμα κύλισης?\glossaryentryfield{πλατφόρμα κύλισης}{\glsnamefont{πλατφόρμα κύλισης}}{slide}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{αισθητήρας προσέγγισης?\glossaryentryfield{αισθητήρας προσέγγισης}{\glsnamefont{αισθητήρας προσέγγισης}}{proximity sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{πνευματικό έμβολο?\glossaryentryfield{πνευματικό έμβολο}{\glsnamefont{πνευματικό έμβολο}}{pneumatic cylinder}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{μαγνητικός αισθητήρας?\glossaryentryfield{μαγνητικός αισθητήρας}{\glsnamefont{μαγνητικός αισθητήρας}}{magnetic sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{επαγωγικός αισθητήρας?\glossaryentryfield{επαγωγικός αισθητήρας}{\glsnamefont{επαγωγικός αισθητήρας}}{inductive sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{έμβολο εκτίναξης?\glossaryentryfield{έμβολο εκτίναξης}{\glsnamefont{έμβολο εκτίναξης}}{ejecting cylinder}{\relax }|setentrycounter[]{page}\glsnumberformat}{44}
-\glossaryentry{μηχανή γραναζωτής σύμπλεξης συνεχούς ρεύματως?\glossaryentryfield{μηχανή γραναζωτής σύμπλεξης συνεχούς ρεύματος}{\glsnamefont{μηχανή γραναζωτής σύμπλεξης συνεχούς ρεύματως}}{dc gear motor}{\relax }|setentrycounter[]{page}\glsnumberformat}{51}
-\glossaryentry{ηλεκτρομαγνητική διάταξη?\glossaryentryfield{ηλεκτρομαγνητική διάταξη}{\glsnamefont{ηλεκτρομαγνητική διάταξη}}{solenoid}{\relax }|setentrycounter[]{page}\glsnumberformat}{52}
+\glossaryentry{reciprocity?\glossaryentryfield{reciprocity}{\glsnamefont{reciprocity}}{αμοιβαιότητα. Επιπλέον σύμφωνα με το \href {http://www.thefreedictionary.com/reciprocity}{thefreedictionary.com} η λέξη ερμηνεύεται ως ""a mutual exchange of commercial or other privileges""}{\relax }|setentrycounter[]{page}\glsnumberformat}{26}
+\glossaryentry{organismic?\glossaryentryfield{organismic}{\glsnamefont{organismic}}{οργανισμικός}{\relax }|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{οικονομετρία?\glossaryentryfield{οικονομετρία}{\glsnamefont{οικονομετρία}}{econometrics}{\relax }|setentrycounter[]{page}\glsnumberformat}{31}
+\glossaryentry{φωτοκύτταρο?\glossaryentryfield{φωτοκύτταρο}{\glsnamefont{φωτοκύτταρο}}{through-beam sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{έμβολο πεπιεσμένου αέρα δύο κατευθύνσεων?\glossaryentryfield{έμβολο πεπιεσμένου αέρα δύο κατευθύνσεων}{\glsnamefont{έμβολο πεπιεσμένου αέρα δύο κατευθύνσεων}}{double-acting cylinder}{\relax }|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{μονάδα μεταφοράς?\glossaryentryfield{μονάδα μεταφοράς}{\glsnamefont{μονάδα μεταφοράς}}{changer module}{\relax }|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{βεντούζα?\glossaryentryfield{βεντούζα}{\glsnamefont{βεντούζα}}{suction cup}{\relax }|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{αισθητήρας κενού?\glossaryentryfield{αισθητήρας κενού}{\glsnamefont{αισθητήρας κενού}}{vacuum switch}{\relax }|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{βαλβίδα ελέγχου πεπιεσμένου αέρα μίας κατεύθυνσης?\glossaryentryfield{βαλβίδα ελέγχου πεπιεσμένου αέρα μίας κατεύθυνσης}{\glsnamefont{βαλβίδα ελέγχου πεπιεσμένου αέρα μίας κατεύθυνσης}}{one-way flow control valves}{\relax }|setentrycounter[]{page}\glsnumberformat}{60}
+\glossaryentry{μικροδιακόπτης?\glossaryentryfield{μικροδιακόπτης}{\glsnamefont{μικροδιακόπτης}}{micro switch}{\relax }|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{αισθητήρας ανάκλασης?\glossaryentryfield{αισθητήρας ανάκλασης}{\glsnamefont{αισθητήρας ανάκλασης}}{retro-reflective sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{αναλογικός αισθητήρας?\glossaryentryfield{αναλογικός αισθητήρας}{\glsnamefont{αναλογικός αισθητήρας}}{analogue sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{γραμμικό έμβολο?\glossaryentryfield{γραμμικό έμβολο}{\glsnamefont{γραμμικό έμβολο}}{linear cylinder}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{πλατφόρμα κύλισης με εξομάλυνση αέρα?\glossaryentryfield{πλατφόρμα κύλισης με εξομάλυνση αέρα}{\glsnamefont{πλατφόρμα κύλισης με εξομάλυνση αέρα}}{air cushioned slide}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{πλατφόρμα κύλισης?\glossaryentryfield{πλατφόρμα κύλισης}{\glsnamefont{πλατφόρμα κύλισης}}{slide}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{αισθητήρας προσέγγισης?\glossaryentryfield{αισθητήρας προσέγγισης}{\glsnamefont{αισθητήρας προσέγγισης}}{proximity sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{πνευματικό έμβολο?\glossaryentryfield{πνευματικό έμβολο}{\glsnamefont{πνευματικό έμβολο}}{pneumatic cylinder}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{μαγνητικός αισθητήρας?\glossaryentryfield{μαγνητικός αισθητήρας}{\glsnamefont{μαγνητικός αισθητήρας}}{magnetic sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{επαγωγικός αισθητήρας?\glossaryentryfield{επαγωγικός αισθητήρας}{\glsnamefont{επαγωγικός αισθητήρας}}{inductive sensor}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{έμβολο εκτίναξης?\glossaryentryfield{έμβολο εκτίναξης}{\glsnamefont{έμβολο εκτίναξης}}{ejecting cylinder}{\relax }|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{μηχανή γραναζωτής σύμπλεξης συνεχούς ρεύματως?\glossaryentryfield{μηχανή γραναζωτής σύμπλεξης συνεχούς ρεύματος}{\glsnamefont{μηχανή γραναζωτής σύμπλεξης συνεχούς ρεύματως}}{dc gear motor}{\relax }|setentrycounter[]{page}\glsnumberformat}{70}
+\glossaryentry{ηλεκτρομαγνητική διάταξη?\glossaryentryfield{ηλεκτρομαγνητική διάταξη}{\glsnamefont{ηλεκτρομαγνητική διάταξη}}{solenoid}{\relax }|setentrycounter[]{page}\glsnumberformat}{71}
