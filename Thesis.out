@@ -5,80 +5,76 @@
 \BOOKMARK [0][-]{section*.7}{Κατάλογος Σχημάτων}{}% 5
 \BOOKMARK [0][-]{section*.9}{Κατάλογος Πινάκων}{}% 6
 \BOOKMARK [0][-]{chapter*.11}{Πρόλογος}{}% 7
-\BOOKMARK [0][-]{chapter.1}{Εισαγωγή στα συστήματα και στα ενσωματωμένα}{}% 8
+\BOOKMARK [0][-]{chapter.1}{Εισαγωγή στα συστήματα και στα μηχανοτρονικά συστήματα}{}% 8
 \BOOKMARK [1][-]{section.1.1}{Σύστημα}{chapter.1}% 9
 \BOOKMARK [2][-]{subsection.1.1.1}{Ιστορική αναδρομή}{section.1.1}% 10
-\BOOKMARK [2][-]{subsection.1.1.2}{Σύστημα Ενσωματωμένο}{section.1.1}% 11
-\BOOKMARK [1][-]{section.1.2}{Η εξέλιξη των συστημάτων σήμερα}{chapter.1}% 12
-\BOOKMARK [1][-]{section.1.3}{Σύνοψη}{chapter.1}% 13
-\BOOKMARK [0][-]{chapter.2}{Μοντελοποίηση συστημάτων}{}% 14
-\BOOKMARK [1][-]{section.2.1}{Εισαγωγή}{chapter.2}% 15
-\BOOKMARK [1][-]{section.2.2}{Γραφική μοντελοποίηση συστημάτων}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.3}{Μοντελοποίση και εφαρμογή σε πεδία ευρύτερα από του μηχανικού}{chapter.2}% 17
-\BOOKMARK [2][-]{subsection.2.3.1}{Χρησιμοποίηση μοντέλων  για τον στρατηγικό σχεδιασμό της απόθεσης πυρηνικών αποβλήτων.}{section.2.3}% 18
-\BOOKMARK [2][-]{subsection.2.3.2}{Ακμάζουσες MBSE μεθοδολογίες}{section.2.3}% 19
-\BOOKMARK [0][-]{chapter.3}{Γλώσσες μοντελοποίησης συστημάτων}{}% 20
-\BOOKMARK [1][-]{section.3.1}{AADL}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.2}{MARTE}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.3}{UPDM}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.4}{AML}{chapter.3}% 24
-\BOOKMARK [1][-]{section.3.5}{SLM}{chapter.3}% 25
-\BOOKMARK [1][-]{section.3.6}{SLDL}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.7}{Unified\040Modeling\040Language\040-\040UML}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.8}{Systems\040Engineering\040Modelling\040Language\040-\040SysML}{chapter.3}% 28
-\BOOKMARK [0][-]{chapter.4}{Γλώσσα SyML}{}% 29
-\BOOKMARK [1][-]{section.4.1}{Εισαγωγή}{chapter.4}% 30
-\BOOKMARK [1][-]{section.4.2}{Παρουσίαση διαγραμμάτων APracticalGuideToSysML}{chapter.4}% 31
-\BOOKMARK [1][-]{section.4.3}{Λογισμικό υποστήριξης}{chapter.4}% 32
-\BOOKMARK [1][-]{section.4.4}{Συσχετιζόμενες εργασίες}{chapter.4}% 33
-\BOOKMARK [2][-]{subsection.4.4.1}{Σχεδίαση βάση εξομείωσης}{section.4.4}% 34
-\BOOKMARK [2][-]{subsection.4.4.2}{SoC,\040SysML\040and\040SystemC}{section.4.4}% 35
-\BOOKMARK [2][-]{subsection.4.4.3}{The\040processing\040system\040paradigm}{section.4.4}% 36
-\BOOKMARK [2][-]{subsection.4.4.4}{Ανάπτυξη εργαλείων σύνδεσης διαφορετικών επιστημονικών πεδίων και Έρευνα στο μετασχηματισμό μοντέλων από το ένα εργαλείο στο άλλο.}{section.4.4}% 37
-\BOOKMARK [0][-]{chapter.5}{Πρώτο πεδίο εφαρμογής : Festo MPS®System}{}% 38
-\BOOKMARK [1][-]{section.5.1}{Παρουσίαση του συστήματος}{chapter.5}% 39
-\BOOKMARK [2][-]{subsection.5.1.1}{Σταθμός διανομής FestoMPSDistributionStationManual ΤοΦυσικόΣύστημαFestoMPS UMLΕνσωματωμέναΣυστήματα}{section.5.1}% 40
-\BOOKMARK [2][-]{subsection.5.1.2}{Σταθμός ελέγχου FestoMPSTestingStationManual ΤοΦυσικόΣύστημαFestoMPS UMLΕνσωματωμέναΣυστήματα}{section.5.1}% 41
-\BOOKMARK [2][-]{subsection.5.1.3}{Σταθμός επεξεργασίας FestoMPSProcessingStationManual ΤοΦυσικόΣύστημαFestoMPS UMLΕνσωματωμέναΣυστήματα}{section.5.1}% 42
-\BOOKMARK [2][-]{subsection.5.1.4}{Σταθμός αποθήκευσης FestoMPSHandlingStationManual ΤοΦυσικόΣύστημαFestoMPS UMLΕνσωματωμέναΣυστήματα}{section.5.1}% 43
-\BOOKMARK [1][-]{section.5.2}{Μοντελοποίηση του συστήματος}{chapter.5}% 44
-\BOOKMARK [2][-]{subsection.5.2.1}{Μοντέλο Σύλληψης - Conception Model}{section.5.2}% 45
-\BOOKMARK [2][-]{subsection.5.2.2}{Μοντέλο Ανάλυσης - Analysis Model}{section.5.2}% 46
-\BOOKMARK [2][-]{subsection.5.2.3}{Μοντέλο Υλοποίησης - Implementation Model}{section.5.2}% 47
-\BOOKMARK [2][-]{subsection.5.2.4}{Μοντέλο Συστήματος Ελέγχου}{section.5.2}% 48
-\BOOKMARK [1][-]{section.5.3}{Έλεγχος του συστήματος ελέγχου του Festo MPS}{chapter.5}% 49
-\BOOKMARK [0][-]{chapter.6}{Δεύτερο πεδίο εφαρμογής : Takos System}{}% 50
-\BOOKMARK [0][-]{chapter.7}{Συμπεράσματα}{}% 51
-\BOOKMARK [1][-]{section.7.1}{Συμφωνούμε με τα παρακάτω}{chapter.7}% 52
-\BOOKMARK [1][-]{section.7.2}{Σχεδίαση βάση εξομείωσης}{chapter.7}% 53
-\BOOKMARK [1][-]{section.7.3}{SoC,\040SysML\040and\040SystemC}{chapter.7}% 54
-\BOOKMARK [1][-]{section.7.4}{The\040processing\040system\040paradigm}{chapter.7}% 55
-\BOOKMARK [1][-]{section.7.5}{Ανάπτυξη εργαλείων σύνδεσης διαφορετικών επιστημονικών πεδίων και Έρευνα στο μετασχηματισμό μοντέλων από το ένα εργαλείο στο άλλο.}{chapter.7}% 56
-\BOOKMARK [0][-]{chapter.8}{Προοπτικές}{}% 57
-\BOOKMARK [0][-]{section*.186}{Παραρτήματα}{}% 58
-\BOOKMARK [0][-]{Παράρτημα.alph1.Alph1}{Festo MPS®System}{}% 59
-\BOOKMARK [1][-]{section.alph1.Alph1.1}{Μοντέλο Σύλληψης - Conception Model}{Παράρτημα.alph1.Alph1}% 60
-\BOOKMARK [2][-]{subsection.alph1.Alph1.1.1}{Χώρος υλοποίησης συστήματος - Contex}{section.alph1.Alph1.1}% 61
-\BOOKMARK [2][-]{subsection.alph1.Alph1.1.2}{Πακέτο απαιτήσεων - Requirements package}{section.alph1.Alph1.1}% 62
-\BOOKMARK [2][-]{subsection.alph1.Alph1.1.3}{Πακέτο δομής - Structure package}{section.alph1.Alph1.1}% 63
-\BOOKMARK [2][-]{subsection.alph1.Alph1.1.4}{Πακέτο λειτουργίας - Behaviour package}{section.alph1.Alph1.1}% 64
-\BOOKMARK [1][-]{section.alph1.Alph1.2}{Μοντέλο Ανάλυσης - Analysis Model}{Παράρτημα.alph1.Alph1}% 65
-\BOOKMARK [2][-]{subsection.alph1.Alph1.2.1}{Χώρος υλοποίησης συστήματος - Contex}{section.alph1.Alph1.2}% 66
-\BOOKMARK [2][-]{subsection.alph1.Alph1.2.2}{Πακέτο απαιτήσεων - Requirements package}{section.alph1.Alph1.2}% 67
-\BOOKMARK [2][-]{subsection.alph1.Alph1.2.3}{Πακέτο δομής - Structure package}{section.alph1.Alph1.2}% 68
-\BOOKMARK [2][-]{subsection.alph1.Alph1.2.4}{Πακέτο λειτουργίας - Behaviour package}{section.alph1.Alph1.2}% 69
-\BOOKMARK [1][-]{section.alph1.Alph1.3}{Μοντέλο Υλοποίησης -Design Model}{Παράρτημα.alph1.Alph1}% 70
-\BOOKMARK [2][-]{subsection.alph1.Alph1.3.1}{Χώρος υλοποίησης συστήματος - Contex}{section.alph1.Alph1.3}% 71
-\BOOKMARK [2][-]{subsection.alph1.Alph1.3.2}{Πακέτο απαιτήσεων - Requirements package}{section.alph1.Alph1.3}% 72
-\BOOKMARK [2][-]{subsection.alph1.Alph1.3.3}{Πακέτο δομής - Structure package}{section.alph1.Alph1.3}% 73
-\BOOKMARK [2][-]{subsection.alph1.Alph1.3.4}{Πακέτο λειτουργίας - Behaviour package}{section.alph1.Alph1.3}% 74
-\BOOKMARK [1][-]{section.alph1.Alph1.4}{Εξομοιωτής Festo MPS®}{Παράρτημα.alph1.Alph1}% 75
-\BOOKMARK [0][-]{Παράρτημα.alph1.Alph2}{Takos\040System}{}% 76
-\BOOKMARK [1][-]{section.alph1.Alph2.1}{Takos\0401}{Παράρτημα.alph1.Alph2}% 77
-\BOOKMARK [2][-]{subsection.alph1.Alph2.1.1}{Takos\0401.1}{section.alph1.Alph2.1}% 78
-\BOOKMARK [0][-]{section*.193}{Ξενόγλωσση Βιβλιογραφία}{}% 79
-\BOOKMARK [0][-]{section*.195}{Ελληνόγλωσση Βιβλιογραφία}{}% 80
-\BOOKMARK [0][-]{section*.197}{Γλωσσάρι}{}% 81
-\BOOKMARK [0][-]{section*.199}{Συντομογραφίες}{}% 82
-\BOOKMARK [0][-]{section*.201}{Λεξικό αγγλικών όρων}{}% 83
-\BOOKMARK [0][-]{section*.203}{Ευρετήριο}{}% 84
+\BOOKMARK [2][-]{subsection.1.1.2}{Σύγχρονη κατάσταση}{section.1.1}% 11
+\BOOKMARK [1][-]{section.1.2}{Μηχανοτρονικό σύστημα}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.2.1}{Ιστορική αναδρομή}{section.1.2}% 13
+\BOOKMARK [2][-]{subsection.1.2.2}{Σύγχρονη κατάσταση}{section.1.2}% 14
+\BOOKMARK [1][-]{section.1.3}{Σύνοψη}{chapter.1}% 15
+\BOOKMARK [1][-]{section.1.4}{Σημειώσεις}{chapter.1}% 16
+\BOOKMARK [2][-]{subsection.1.4.1}{Η εξέλιξη των συστημάτων σήμερα}{section.1.4}% 17
+\BOOKMARK [2][-]{subsection.1.4.2}{Σύνοψη}{section.1.4}% 18
+\BOOKMARK [2][-]{subsection.1.4.3}{Μηχανοτρονικό σύστημα}{section.1.4}% 19
+\BOOKMARK [0][-]{chapter.2}{Μοντελοποίηση συστημάτων}{}% 20
+\BOOKMARK [1][-]{section.2.1}{Εισαγωγή}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.2}{Ιστορική αναδρομή}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.3}{Ανάλυση διαγραμματικής μοντελοποίησης}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.4}{Σύντομη αναφορά σε υπάρχουσες γλώσσες διαγραμματικής μοντελοποίησης}{chapter.2}% 24
+\BOOKMARK [1][-]{section.2.5}{Αιτιολόγηση επιλογής SysML}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.6}{Σημειώσεις}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.6.1}{Χρησιμοποίηση μοντέλων  για τον στρατηγικό σχεδιασμό της απόθεσης πυρηνικών αποβλήτων.}{section.2.6}% 27
+\BOOKMARK [2][-]{subsection.2.6.2}{Ακμάζουσες MBSE μεθοδολογίες}{section.2.6}% 28
+\BOOKMARK [0][-]{chapter.3}{Γλώσσα SyML}{}% 29
+\BOOKMARK [1][-]{section.3.1}{Εισαγωγή}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.2}{Ιστορική αναδρομή}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.3}{Παρουσίαση διαγραμμάτων}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.4}{Παρουσίαση case studies}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.5}{Σημειώσεις}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.5.1}{Παρουσίαση διαγραμμάτων APracticalGuideToSysML}{section.3.5}% 35
+\BOOKMARK [0][-]{chapter.4}{Πρώτο πεδίο εφαρμογής : Festo MPS®System}{}% 36
+\BOOKMARK [1][-]{section.4.1}{Παρουσίαση του συστήματος}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.1.1}{Σταθμός διανομής FestoMPSDistributionStationManual ΤοΦυσικόΣύστημαFestoMPS UMLΕνσωματωμέναΣυστήματα}{section.4.1}% 38
+\BOOKMARK [2][-]{subsection.4.1.2}{Σταθμός ελέγχου FestoMPSTestingStationManual ΤοΦυσικόΣύστημαFestoMPS UMLΕνσωματωμέναΣυστήματα}{section.4.1}% 39
+\BOOKMARK [2][-]{subsection.4.1.3}{Σταθμός επεξεργασίας FestoMPSProcessingStationManual ΤοΦυσικόΣύστημαFestoMPS UMLΕνσωματωμέναΣυστήματα}{section.4.1}% 40
+\BOOKMARK [2][-]{subsection.4.1.4}{Σταθμός αποθήκευσης FestoMPSHandlingStationManual ΤοΦυσικόΣύστημαFestoMPS UMLΕνσωματωμέναΣυστήματα}{section.4.1}% 41
+\BOOKMARK [1][-]{section.4.2}{Επιλογή μεθοδολογίας μοντελοποίησης}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.3}{Μοντελοποίηση του συστήματος}{chapter.4}% 43
+\BOOKMARK [2][-]{subsection.4.3.1}{Μοντέλο Σύλληψης - Conception Model}{section.4.3}% 44
+\BOOKMARK [2][-]{subsection.4.3.2}{Μοντέλο Ανάλυσης - Analysis Model}{section.4.3}% 45
+\BOOKMARK [2][-]{subsection.4.3.3}{Μοντέλο Υλοποίησης - Implementation Model}{section.4.3}% 46
+\BOOKMARK [2][-]{subsection.4.3.4}{Μοντέλο Συστήματος Ελέγχου}{section.4.3}% 47
+\BOOKMARK [1][-]{section.4.4}{Υλοποίηση του συστήματος}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.5}{Έλεγχος του συστήματος ελέγχου του Festo MPS}{chapter.4}% 49
+\BOOKMARK [0][-]{chapter.5}{Συμπεράσματα}{}% 50
+\BOOKMARK [1][-]{section.5.1}{Συμφωνούμε με τα παρακάτω}{chapter.5}% 51
+\BOOKMARK [1][-]{section.5.2}{Σχεδίαση βάση εξομείωσης}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.3}{SoC,\040SysML\040and\040SystemC}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.4}{The\040processing\040system\040paradigm}{chapter.5}% 54
+\BOOKMARK [1][-]{section.5.5}{Ανάπτυξη εργαλείων σύνδεσης διαφορετικών επιστημονικών πεδίων και Έρευνα στο μετασχηματισμό μοντέλων από το ένα εργαλείο στο άλλο.}{chapter.5}% 55
+\BOOKMARK [0][-]{chapter.6}{Προοπτικές}{}% 56
+\BOOKMARK [0][-]{section*.189}{Παραρτήματα}{}% 57
+\BOOKMARK [0][-]{Παράρτημα.alph1.Alph1}{Festo MPS®System}{}% 58
+\BOOKMARK [1][-]{section.alph1.Alph1.1}{Μοντέλο Σύλληψης - Conception Model}{Παράρτημα.alph1.Alph1}% 59
+\BOOKMARK [2][-]{subsection.alph1.Alph1.1.1}{Χώρος υλοποίησης συστήματος - Contex}{section.alph1.Alph1.1}% 60
+\BOOKMARK [2][-]{subsection.alph1.Alph1.1.2}{Πακέτο απαιτήσεων - Requirements package}{section.alph1.Alph1.1}% 61
+\BOOKMARK [2][-]{subsection.alph1.Alph1.1.3}{Πακέτο δομής - Structure package}{section.alph1.Alph1.1}% 62
+\BOOKMARK [2][-]{subsection.alph1.Alph1.1.4}{Πακέτο λειτουργίας - Behaviour package}{section.alph1.Alph1.1}% 63
+\BOOKMARK [1][-]{section.alph1.Alph1.2}{Μοντέλο Ανάλυσης - Analysis Model}{Παράρτημα.alph1.Alph1}% 64
+\BOOKMARK [2][-]{subsection.alph1.Alph1.2.1}{Χώρος υλοποίησης συστήματος - Contex}{section.alph1.Alph1.2}% 65
+\BOOKMARK [2][-]{subsection.alph1.Alph1.2.2}{Πακέτο απαιτήσεων - Requirements package}{section.alph1.Alph1.2}% 66
+\BOOKMARK [2][-]{subsection.alph1.Alph1.2.3}{Πακέτο δομής - Structure package}{section.alph1.Alph1.2}% 67
+\BOOKMARK [2][-]{subsection.alph1.Alph1.2.4}{Πακέτο λειτουργίας - Behaviour package}{section.alph1.Alph1.2}% 68
+\BOOKMARK [1][-]{section.alph1.Alph1.3}{Μοντέλο Υλοποίησης -Design Model}{Παράρτημα.alph1.Alph1}% 69
+\BOOKMARK [2][-]{subsection.alph1.Alph1.3.1}{Χώρος υλοποίησης συστήματος - Contex}{section.alph1.Alph1.3}% 70
+\BOOKMARK [2][-]{subsection.alph1.Alph1.3.2}{Πακέτο απαιτήσεων - Requirements package}{section.alph1.Alph1.3}% 71
+\BOOKMARK [2][-]{subsection.alph1.Alph1.3.3}{Πακέτο δομής - Structure package}{section.alph1.Alph1.3}% 72
+\BOOKMARK [2][-]{subsection.alph1.Alph1.3.4}{Πακέτο λειτουργίας - Behaviour package}{section.alph1.Alph1.3}% 73
+\BOOKMARK [1][-]{section.alph1.Alph1.4}{Εξομοιωτής Festo MPS®}{Παράρτημα.alph1.Alph1}% 74
+\BOOKMARK [0][-]{section*.195}{Ξενόγλωσση Βιβλιογραφία}{}% 75
+\BOOKMARK [0][-]{section*.197}{Ελληνόγλωσση Βιβλιογραφία}{}% 76
+\BOOKMARK [0][-]{section*.199}{Γλωσσάρι}{}% 77
+\BOOKMARK [0][-]{section*.201}{Συντομογραφίες}{}% 78
+\BOOKMARK [0][-]{section*.203}{Λεξικό αγγλικών όρων}{}% 79
+\BOOKMARK [0][-]{section*.205}{Ευρετήριο}{}% 80

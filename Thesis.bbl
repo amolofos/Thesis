@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex version 2.0 $
+% $ biblatex version 2.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -15,6 +15,71 @@
       \aftergroup\endinput}
   {}
 \endgroup
+
+\entry{ΜηχανισμόςΑντικυθήρων}{online}{}
+  \keyw{greek}
+  \field{hyphenation}{greek}
+  \field{note}{τελευταία προσπέλαση : 08-2012}
+  \field{title}{Μηχανισμός των Αντικυθήρων}
+  \verb{url}
+  \verb http://www.antikythera-mechanism.gr/
+  \endverb
+\endentry
+
+\entry{ΕπτάΘαύματαΑρχαίουΚόσμου}{online}{}
+  \keyw{greek}
+  \field{hyphenation}{greek}
+  \field{note}{τελευταία προσπέλαση : 08-2012}
+  \field{title}{Επτά θαύματα του αρχαίου κόσμου}
+  \verb{url}
+  \verb http://el.wikipedia.org/wiki/%CE%95%CF%80%CF%84%CE%AC_%CE%B8%CE%B1%CF%8
+  \verb D%CE%BC%CE%B1%CF%84%CE%B1_%CF%84%CE%BF%CF%85_%CE%B1%CF%81%CF%87%CE%B1%C
+  \verb E%AF%CE%BF%CF%85_%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%85
+  \endverb
+\endentry
+
+\entry{ΤοΦυσικόΣύστημαFestoMPS}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Θραμπουλίδης}{.}%
+     {Κλεάνθης}{.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{greek}
+  \field{hyphenation}{greek}
+  \field{note}{τελευταία προσπέλαση : 08-2011}
+  \field{title}{Κεφάλαιο 5: Το φυσικό σύστημα}
+  \verb{url}
+  \verb http://seg.ece.upatras.gr/Courses/SE/docs/FestoMPSDescription.pdf
+  \endverb
+  \list{institution}{1}{%
+    {Τμήμα Ηλεκτρολόγων Μηχανικών και
+  Τεχνολογίας Υπολογιστών, Πανεπιστήμιο
+  Πατρών}%
+  }
+\endentry
+
+\entry{UMLΕνσωματωμέναΣυστήματα}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Αρετάκη}{.}%
+     {Αικατερίνη}{.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{greek}
+  \field{hyphenation}{greek}
+  \field{title}{Η UML στην ανάπτυξη ενσωματωμένων
+  συστημάτων}
+  \list{institution}{1}{%
+    {Τμήμα Ηλεκτρολόγων Μηχανικών και
+  Τεχνολογίας Υπολογιστών, Πανεπιστήμιο
+  Πατρών}%
+  }
+  \field{type}{Διπλωματική Εργασία}
+  \field{year}{2009}
+\endentry
 
 \entry{PontDuGard}{online}{}
   \keyw{english}
@@ -538,6 +603,40 @@
   \field{year}{1859}
 \endentry
 
+\entry{ΛόγοςΠερίΤηςΜεθόδουDescartes1976}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Descartes}{D.}%
+     {Rene}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{translator}{1}{}{%
+    {{}%
+     {Χρηστίδης}{.}%
+     {Χρ.}{.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {greek}%
+  }
+  \list{publisher}{1}{%
+    {Παπαζήσης}%
+  }
+  \keyw{english}
+  \strng{namehash}{DR1}
+  \strng{fullhash}{DR1}
+  \field{sortinit}{D}
+  \field{edition}{2η έκδ. αναθ.}
+  \field{hyphenation}{greek}
+  \field{origlanguage}{french}
+  \field{title}{Λόγος περί της μεθόδου : για την
+  καλή καθοδήγηση του λογικού μας και την
+  αναζήτηση της αλήθειας στις επιστήμες}
+  \field{year}{1976}
+\endentry
+
 \entry{DiscourseΟnMethod:Descartes}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -560,40 +659,6 @@
   \verb http://books.google.gr/books?id=XnX3xsR\_cvcC
   \endverb
   \field{year}{2006}
-\endentry
-
-\entry{ΛόγοςΠερίΤηςΜεθόδουDescartes1976}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Descartes}{D.}%
-     {Rene}{R.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{translator}{1}{}{%
-    {{}%
-     {Χρηστίδης}{�.}%
-     {Χρ.}{�.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{language}{1}{%
-    {greek}%
-  }
-  \list{publisher}{1}{%
-    {Παπαζήσης}%
-  }
-  \keyw{english}
-  \strng{namehash}{DR1}
-  \strng{fullhash}{DR1}
-  \field{sortinit}{D}
-  \field{edition}{2η έκδ. αναθ.}
-  \field{hyphenation}{greek}
-  \field{origlanguage}{french}
-  \field{title}{Λόγος περί της μεθόδου : για την
-  καλή καθοδήγηση του λογικού μας και την
-  αναζήτηση της αλήθειας στις επιστήμες}
-  \field{year}{1976}
 \endentry
 
 \entry{APracticalGuideToSysML}{book}{}
@@ -940,8 +1005,8 @@
   }
   \name{translator}{1}{}{%
     {{}%
-     {Αντώνιος}{�.}%
-     {Παπανικολάου}{�.}%
+     {Αντώνιος}{.}%
+     {Παπανικολάου}{.}%
      {}{}%
      {}{}}%
   }
@@ -1631,6 +1696,128 @@
   \field{year}{2010}
 \endentry
 
+\entry{3+1SysnlViewModelForIEC61499FBContolSystems:Thramboulidis2010}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Thramboulidis}{T.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Buda}{B.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{TKBA1}
+  \strng{fullhash}{TKBA1}
+  \field{sortinit}{T}
+  \field{booktitle}{Industrial Informatics (INDIN), 2010 8th IEEE International
+  Conference on}
+  \verb{doi}
+  \verb 10.1109/INDIN.2010.5549440
+  \endverb
+  \field{hyphenation}{english}
+  \field{pages}{175 \bibrangedash 180}
+  \field{title}{3+1 SysML view model for IEC61499 Function Block control
+  systems}
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{TheMechatronicComponent:Thramboulidis2008}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Thramboulidis}{T.}%
+     {Kleanthis}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \keyw{english}
+  \strng{namehash}{TK1}
+  \strng{fullhash}{TK1}
+  \field{sortinit}{T}
+  \field{booktitle}{Proceedings of 13th IEEE International Conference on
+  Emerging Technologies and Factory Automation, ETFA 2008, September 15-18,
+  2008, Hamburg, Germany}
+  \verb{doi}
+  \verb http://dx.doi.org/10.1109/ETFA.2008.4638462
+  \endverb
+  \field{hyphenation}{english}
+  \field{pages}{624\bibrangedash 631}
+  \field{title}{Challenges in the development of Mechatronic systems: The
+  Mechatronic Component}
+  \field{year}{2008}
+\endentry
+
+\entry{ModelIntegratedMechatronics:Thramboulidis2005}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Thramboulidis}{T.}%
+     {Kleanthis}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{TK1}
+  \strng{fullhash}{TK1}
+  \field{sortinit}{T}
+  \field{hyphenation}{english}
+  \field{pages}{54\bibrangedash 61}
+  \field{title}{Model-Integrated Mechatronics – Toward a New Paradigm in the
+  Development of Manufacturing Systems}
+  \field{volume}{1}
+  \field{journaltitle}{IEEE Transactions on Industrial Informatics}
+  \field{year}{2005}
+\endentry
+
+\entry{The3+1SysmlView-ModelInMIM:Thramboulidis2010}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Thramboulidis}{T.}%
+     {Kleanthis}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{TK1}
+  \strng{fullhash}{TK1}
+  \field{sortinit}{T}
+  \field{hyphenation}{english}
+  \field{pages}{109\bibrangedash 118}
+  \field{title}{The 3+1 SysML View-Model in Model Integrated Mechatronics}
+  \field{journaltitle}{IEEE Transactions on Industrial Informatics}
+  \field{year}{2010}
+\endentry
+
+\entry{IntegratingThe3+1SysnlViewModelWithSafetyEngineering:Thramboulidis2010}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Thramboulidis}{T.}%
+     {Kleanthis}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scholz}{S.}%
+     {Sven}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{TKSS1}
+  \strng{fullhash}{TKSS1}
+  \field{sortinit}{T}
+  \field{booktitle}{ETFA}
+  \field{hyphenation}{english}
+  \field{pages}{1\bibrangedash 8}
+  \field{title}{Integrating the 3+1 SysML view model with safety engineering}
+  \field{year}{2010}
+\endentry
+
 \entry{GeneralSystemsTheory:Bertalanffy1972}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -1719,79 +1906,6 @@
   }
   \field{type}{masterthesis}
   \field{year}{2010}
-\endentry
-
-\entry{UMLΕνσωματωμέναΣυστήματα}{thesis}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Αρετάκη}{�.}%
-     {Αικατερίνη}{�.}%
-     {}{}%
-     {}{}}%
-  }
-  \keyw{greek}
-  \strng{namehash}{��1}
-  \strng{fullhash}{��1}
-  \field{sortinit}{�}
-  \field{hyphenation}{greek}
-  \field{title}{Η UML στην ανάπτυξη ενσωματωμένων
-  συστημάτων}
-  \list{institution}{1}{%
-    {Τμήμα Ηλεκτρολόγων Μηχανικών και
-  Τεχνολογίας Υπολογιστών, Πανεπιστήμιο
-  Πατρών}%
-  }
-  \field{type}{Διπλωματική Εργασία}
-  \field{year}{2009}
-\endentry
-
-\entry{ΕπτάΘαύματαΑρχαίουΚόσμου}{online}{}
-  \keyw{greek}
-  \field{sortinit}{�}
-  \field{hyphenation}{greek}
-  \field{note}{τελευταία προσπέλαση : 08-2012}
-  \field{title}{Επτά θαύματα του αρχαίου κόσμου}
-  \verb{url}
-  \verb http://el.wikipedia.org/wiki/%CE%95%CF%80%CF%84%CE%AC_%CE%B8%CE%B1%CF%8
-  \verb D%CE%BC%CE%B1%CF%84%CE%B1_%CF%84%CE%BF%CF%85_%CE%B1%CF%81%CF%87%CE%B1%C
-  \verb E%AF%CE%BF%CF%85_%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%85
-  \endverb
-\endentry
-
-\entry{ΤοΦυσικόΣύστημαFestoMPS}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Θραμπουλίδης}{�.}%
-     {Κλεάνθης}{�.}%
-     {}{}%
-     {}{}}%
-  }
-  \keyw{greek}
-  \strng{namehash}{��2}
-  \strng{fullhash}{��2}
-  \field{sortinit}{�}
-  \field{hyphenation}{greek}
-  \field{note}{τελευταία προσπέλαση : 08-2011}
-  \field{title}{Κεφάλαιο 5: Το φυσικό σύστημα}
-  \verb{url}
-  \verb http://seg.ece.upatras.gr/Courses/SE/docs/FestoMPSDescription.pdf
-  \endverb
-  \list{institution}{1}{%
-    {Τμήμα Ηλεκτρολόγων Μηχανικών και
-  Τεχνολογίας Υπολογιστών, Πανεπιστήμιο
-  Πατρών}%
-  }
-\endentry
-
-\entry{ΜηχανισμόςΑντικυθήρων}{online}{}
-  \keyw{greek}
-  \field{sortinit}{�}
-  \field{hyphenation}{greek}
-  \field{note}{τελευταία προσπέλαση : 08-2012}
-  \field{title}{Μηχανισμός των Αντικυθήρων}
-  \verb{url}
-  \verb http://www.antikythera-mechanism.gr/
-  \endverb
 \endentry
 
 \lossort

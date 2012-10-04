@@ -1,0 +1,53 @@
+\documentclass[a4paper,12pt,twoside]{article}
+
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\usepackage{xgreek}
+\usepackage{csquotes}
+\usepackage{placeins}
+
+\raggedbottom
+\onecolumn
+
+\usepackage{graphicx,amsfonts,psfrag,fancyhdr,layout,subfigure}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{array}
+
+
+
+\setmainfont[Mapping=tex-text]{GFS Artemisia}
+
+\usepackage[style=numeric, bibstyle=numeric, hyperref=true, backref=true, alldates=terse, indexing=false, backend=bibtex]{biblatex}
+\addbibresource{Bibliography.bib}
+
+\usepackage{hyperref}
+
+
+% Set equal margins on book style
+\setlength{\oddsidemargin}{53pt}
+\setlength{\evensidemargin}{53pt}
+\setlength{\marginparwidth}{57pt}
+\setlength{\footskip}{30pt}
+
+
+% Document starts here
+\begin{document}
+
+	\phantomsection
+	\tableofcontents
+	
+	\pagebreak
+	
+	\section{Παρατηρήσεις πάνω στο μηχανοτρονικό συστατικό -MTC}
+		\paragraph{}{Στο \cite{TheMechatronicComponent:Thramboulidis2008} αναφέρεται και αναλύεται ως βασικό δομικό συστατικό των MTSs το MTC. Επισημαίνεται ότι προωθεί μεταξύ άλλων και την επαναχρησιμοποίηση των ήδη υπαρχόντων MTC. Στο κομμάτι αυτό γίνεται μνεία για την τροποποίηση αυτών των MTC. Αναφέρεται φυσικά στο μέρος του λογισμικού. Δεν το βλέπουμε όμως συνολικά; Η μηχανοτρονική αντίληψη που πήγε;
+		}
+		
+	\cleardoublepage
+	\phantomsection
+	\addcontentsline{toc}{chapter}{Βιβλιογραφία}
+	\label{κεφ.:Βιβλιογραφία}
+	\printbibliography
+
+\end{document}

@@ -1,20 +1,24 @@
 \begin{theindex}
 
-  \item Ansi C, \hyperpage{42}
+  \item Ansi C, \hyperpage{46}
+  \item AT{\&}T, \hyperpage{29}, \hyperpage{33}
 
   \indexspace
 
   \item Bach, \hyperpage{30}
   \item behavioul
-    \subitem package, \hyperpage{102}, \hyperpage{135}, \hyperpage{188}
+    \subitem package, \hyperpage{101}, \hyperpage{134}, \hyperpage{187}
   \item Beitz, \hyperpage{30}
-  \item Bode, \hyperpage{29}
+  \item Bell Telephone Laboratories, \hyperpage{29}, \hyperpage{33}
+  \item bionics, \hyperpage{34}
+  \item Bode, \hyperpage{30}
   \item Bush Vannevar, \hyperpage{29}
 
   \indexspace
 
   \item complex, \hyperpage{26}
-  \item contex, \hyperpage{91}, \hyperpage{108}, \hyperpage{148}
+  \item contex, \hyperpage{90}, \hyperpage{107}, \hyperpage{147}
+  \item cybernetics, \hyperpage{33}
 
   \indexspace
 
@@ -41,7 +45,7 @@
   \indexspace
 
   \item Haldane J.S., \hyperpage{26}
-  \item Hartley, \hyperpage{29}
+  \item Hartley, \hyperpage{30}
   \item Hegel, \hyperpage{25}
   \item holism, \hyperpage{27}
 
@@ -53,14 +57,17 @@
 
   \item MIT, \hyperpage{29}
   \item model
-    \subitem analysis, \hyperpage{79}, \hyperpage{108}
-    \subitem conception, \hyperpage{79}, \hyperpage{91}
-    \subitem design, \hyperpage{148}
-    \subitem implementation, \hyperpage{79}
+    \subitem analysis, \hyperpage{79}, \hyperpage{107}
+    \subitem conception, \hyperpage{79}, \hyperpage{90}
+    \subitem design, \hyperpage{147}
+    \subitem implementation, \hyperpage{80}
+  \item Morgestern, \hyperpage{33}
 
   \indexspace
 
-  \item Nyquist, \hyperpage{29}
+  \item Neumann, \hyperpage{33}
+  \item Norbert Wiener, \hyperpage{33}
+  \item Nyquist, \hyperpage{30}
 
   \indexspace
 
@@ -70,12 +77,12 @@
   \indexspace
 
   \item package
-    \subitem behaviour, \hyperpage{102}, \hyperpage{135}, 
-		\hyperpage{188}
-    \subitem requirements, \hyperpage{94}, \hyperpage{113}, 
-		\hyperpage{179}
-    \subitem structure, \hyperpage{101}, \hyperpage{124}, 
-		\hyperpage{179}
+    \subitem behaviour, \hyperpage{101}, \hyperpage{134}, 
+		\hyperpage{187}
+    \subitem requirements, \hyperpage{93}, \hyperpage{112}, 
+		\hyperpage{178}
+    \subitem structure, \hyperpage{100}, \hyperpage{123}, 
+		\hyperpage{178}
   \item Pahl, \hyperpage{30}
   \item Phillips Bogdanov Alexander, \hyperpage{25}
   \item Phillips D.C., \hyperpage{25}
@@ -84,21 +91,23 @@
 
   \item Redtenbacher, \hyperpage{30}
   \item requirements
-    \subitem package, \hyperpage{94}, \hyperpage{113}, \hyperpage{179}
+    \subitem package, \hyperpage{93}, \hyperpage{112}, \hyperpage{178}
   \item Riedler, \hyperpage{30}
 
   \indexspace
 
-  \item SLDL, \hyperpage{42}
-  \item SpecC, \hyperpage{42}
+  \item Shannon Claude E., \hyperpage{33}
+  \item SLDL, \hyperpage{46}
+  \item SpecC, \hyperpage{46}
   \item Stafford Beer, \hyperpage{25}
+  \item Steele Jack E., \hyperpage{34}
   \item structure
-    \subitem package, \hyperpage{101}, \hyperpage{124}, \hyperpage{179}
-  \item System-Level Design Languages, \hyperpage{42}
+    \subitem package, \hyperpage{100}, \hyperpage{123}, \hyperpage{178}
+  \item System-Level Design Languages, \hyperpage{46}
 
   \indexspace
 
-  \item Taylor W. Frederick, \hyperpage{30}
+  \item Taylor W. Frederick, \hyperpage{31}
   \item tektology, \hyperpage{25}
   \item Trygve Haavelmo, \hyperpage{31}
 
@@ -106,6 +115,7 @@
 
   \item W\"ogerbauer, \hyperpage{30}
   \item wallace Russel Alfred, \hyperpage{22}
+  \item Weaver Warren, \hyperpage{33}
 
   \indexspace
 
@@ -129,11 +139,12 @@
     \subitem προσέγγισης, \hyperpage{63}, \hyperpage{71}
   \item ανοιχτό σύστημα, \hyperpage{27}
   \item απαιτήσεις
-    \subitem πακέτο, \hyperpage{94}, \hyperpage{113}, 
-		\hyperpage{179}
+    \subitem πακέτο, \hyperpage{93}, \hyperpage{112}, 
+		\hyperpage{178}
   \item βαλβίδα, \hyperpage{60}
   \item βεντούζα, \hyperpage{57}
   \item βιομηχανική επανάσταση, \hyperpage{24}
+  \item βιονική, \hyperpage{34}
   \item βραχίονας, \hyperpage{57}
   \item δαγκάνα
     \subitem πνευματική, \hyperpage{76}
@@ -141,25 +152,26 @@
     \subitem ηλεκτρικός, \hyperpage{71}
     \subitem τερματικός, \hyperpage{71}
   \item διοίκηση
-    \subitem επιστημονική, \hyperpage{30}
+    \subitem επιστημονική, \hyperpage{31}
   \item δομή
-    \subitem πακέτο, \hyperpage{101}, \hyperpage{124}, 
-		\hyperpage{179}
+    \subitem πακέτο, \hyperpage{100}, \hyperpage{123}, 
+		\hyperpage{178}
   \item εμπειρισμός, \hyperpage{22}
-  \item εξομοιωτής, \hyperpage{189}
+  \item εξομοιωτής, \hyperpage{188}
   \item επαγωγικός αισθητήρας, \hyperpage{60}
   \item ηλεκτρομαγνητική διάταξη, \hyperpage{71}
   \item ιμάντας, \hyperpage{71}
-  \item ιχνηλασιμότητα, \hyperpage{46}
+  \item ιχνηλασιμότητα, \hyperpage{50}
   \item κινητήρας
     \subitem πνευματικός, \hyperpage{60}
+  \item κυβερνητική, \hyperpage{33}
   \item κυλινδρικά τεμάχια, \hyperpage{56}
   \item κύκλωμα, \hyperpage{29}
   \item λειτουργία
-    \subitem πακέτο, \hyperpage{102}, \hyperpage{135}, 
-		\hyperpage{188}
+    \subitem πακέτο, \hyperpage{101}, \hyperpage{134}, 
+		\hyperpage{187}
   \item μέθοδος
-    \subitem παραδοσιακή, \hyperpage{39}
+    \subitem παραδοσιακή, \hyperpage{43}
   \item μηχανή
     \subitem συνεχούς ρεύματος, \hyperpage{70}
   \item μικροδιακόπτης, \hyperpage{61}
@@ -175,11 +187,11 @@
     \subitem μέτρησης, \hyperpage{64}
     \subitem μεταφοράς, \hyperpage{60}, \hyperpage{76}
     \subitem περιστροφής, \hyperpage{70}
-  \item μοντέλο, \hyperpage{45}
-    \subitem ανάλυσης, \hyperpage{79}, \hyperpage{108}
+  \item μοντέλο, \hyperpage{50}
+    \subitem ανάλυσης, \hyperpage{79}, \hyperpage{107}
     \subitem συστήματος ελέγχου, \hyperpage{80}
-    \subitem σύλληψης, \hyperpage{79}, \hyperpage{91}
-    \subitem υλοποίησης, \hyperpage{79}, \hyperpage{148}
+    \subitem σύλληψης, \hyperpage{79}, \hyperpage{90}
+    \subitem υλοποίησης, \hyperpage{80}, \hyperpage{147}
   \item οδοντωτός ιμάντας, \hyperpage{71}
   \item οικονομετρία, \hyperpage{31}
   \item ολισμός, \hyperpage{27}
@@ -189,19 +201,19 @@
   \indexspace
 
   \item πακέτο
-    \subitem απαιτήσεις, \hyperpage{94}, \hyperpage{113}, 
-		\hyperpage{179}
-    \subitem δομής, \hyperpage{101}, \hyperpage{124}, 
-		\hyperpage{179}
-    \subitem λειτουργίας, \hyperpage{102}, \hyperpage{135}, 
-		\hyperpage{188}
-  \item παραδοσιακή μέθοδος, \hyperpage{39}
+    \subitem απαιτήσεις, \hyperpage{93}, \hyperpage{112}, 
+		\hyperpage{178}
+    \subitem δομής, \hyperpage{100}, \hyperpage{123}, 
+		\hyperpage{178}
+    \subitem λειτουργίας, \hyperpage{101}, \hyperpage{134}, 
+		\hyperpage{187}
+  \item παραδοσιακή μέθοδος, \hyperpage{43}
   \item περιστροφική κίνηση, \hyperpage{60}
   \item πλατφόρμα κύλισης
     \subitem εξομάλυνση αέρα, \hyperpage{63}
-  \item προδιαγραφές, \hyperpage{39}
+  \item προδιαγραφές, \hyperpage{43}
   \item πρώτη ύλη, \hyperpage{56}
-  \item πυρηνικά απόβλητα, \hyperpage{45}
+  \item πυρηνικά απόβλητα, \hyperpage{50}
   \item σήμα, \hyperpage{30}
   \item σταθμός
     \subitem αποθήκευσης, \hyperpage{76}
@@ -215,7 +227,7 @@
   \item τεμάχια, \hyperpage{56}
   \item τρυπάνι, \hyperpage{71}
   \item φωτοκύτταρο, \hyperpage{60}
-  \item χώρος υλοποίησης, \hyperpage{91}, 
-		\hyperpage{108}, \hyperpage{148}
+  \item χώρος υλοποίησης, \hyperpage{90}, 
+		\hyperpage{107}, \hyperpage{147}
 
 \end{theindex}

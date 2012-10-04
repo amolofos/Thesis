@@ -1,0 +1,50 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{TheMechatronicComponent:Thramboulidis2008}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Thramboulidis}{T.}%
+     {Kleanthis}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \keyw{english}
+  \strng{namehash}{TK1}
+  \strng{fullhash}{TK1}
+  \field{sortinit}{T}
+  \field{booktitle}{Proceedings of 13th IEEE International Conference on
+  Emerging Technologies and Factory Automation, ETFA 2008, September 15-18,
+  2008, Hamburg, Germany}
+  \verb{doi}
+  \verb http://dx.doi.org/10.1109/ETFA.2008.4638462
+  \endverb
+  \field{hyphenation}{english}
+  \field{pages}{624\bibrangedash 631}
+  \field{title}{Challenges in the development of Mechatronic systems: The
+  Mechatronic Component}
+  \field{year}{2008}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
