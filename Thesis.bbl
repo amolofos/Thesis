@@ -1696,36 +1696,6 @@
   \field{year}{2010}
 \endentry
 
-\entry{3+1SysnlViewModelForIEC61499FBContolSystems:Thramboulidis2010}{inproceedings}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Thramboulidis}{T.}%
-     {K.}{K.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Buda}{B.}%
-     {A.}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \keyw{english}
-  \strng{namehash}{TKBA1}
-  \strng{fullhash}{TKBA1}
-  \field{sortinit}{T}
-  \field{booktitle}{Industrial Informatics (INDIN), 2010 8th IEEE International
-  Conference on}
-  \verb{doi}
-  \verb 10.1109/INDIN.2010.5549440
-  \endverb
-  \field{hyphenation}{english}
-  \field{pages}{175 \bibrangedash 180}
-  \field{title}{3+1 SysML view model for IEC61499 Function Block control
-  systems}
-  \field{year}{2010}
-  \warn{\item Invalid format of field 'month'}
-\endentry
-
 \entry{TheMechatronicComponent:Thramboulidis2008}{inproceedings}{}
   \name{author}{1}{}{%
     {{}%

@@ -2,6 +2,11 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
 The style file: biblatex.bst
 Database file #1: Thesis-blx.bib
 Database file #2: Bibliography.bib
+I was expecting a `,' or a `}'---line 466 of file Bibliography.bib
+ :  keywords  = 3
+ :               +1SysmlViewModelForIEC61499FBContolSystems:Thramboulidis2010{english},
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "TheHistoryΞ‘ndStatusΞ^^9ffGeneralSystemsTheory:Bertalanffy"
+Warning--I didn't find a database entry for "3+1SysmlViewModelForIEC61499FBContolSystems:Thramboulidis2010"
 Biblatex version: 2.2
-(There was 1 warning)
+(There was 1 error message)
