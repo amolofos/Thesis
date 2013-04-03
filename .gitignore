@@ -1,4 +1,6 @@
-﻿*.acn
+﻿
+# Tex unneccesary files
+*.acn
 *.acr
 *.alg
 *.aux
@@ -16,7 +18,7 @@
 *.log
 *.out
 *.run.xml
-*.syntex.gz
+*.synctex.gz
 *.toc
 *.trn
 *.trr
