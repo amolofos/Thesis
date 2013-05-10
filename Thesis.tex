@@ -561,12 +561,20 @@ approach” began to be more commonly used.  \cite[page 15]{HowToDoSystemAnalysi
 %%%%%%%%%%%%%%		   								 Ενότητα		   					   %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%					
 		\subsection{Η εξέλιξη των συστημάτων σήμερα}
-			\paragraph{} {Τις τελευταίες δεκαετίες παρατηρείται μία εκθετική αύξηση του μεγέθους και της πολυπλοκότητας των συστημάτων.  Στη δεκαετία του 1980 και ιδιαίτερα στις αρχές του 1990 άρχισε μία προσπάθεια συστηματοποίησης των μεθοδολογιών σχεδίασης και κατασκευσής συστημάτων. \cite{FoundationalConceptsMDSD}
+			\paragraph{} {Τις τελευταίες δεκαετίες παρατηρείται μία εκθετική αύξηση του μεγέθους και της πολυπλοκότητας των συστημάτων.  Στη δεκαετία του 1980 και ιδιαίτερα στις αρχές του 1990 άρχισε μία προσπάθεια συστηματοποίησης των μεθοδολογιών σχεδίασης και κατασκευής συστημάτων. \cite{FoundationalConceptsMDSD}
+			}
+			\paragraph{} {From interviews with designers  in industry :
+			\begin{itemize}
+			\item Accept any complication in software, if hte electro-mechanical design becomes simpler.
+			\end{itemize}
+			\cite{ATheoreticalApproachOnMechatronicsDesign:Buur1990} p.54.
 			}
 			
 		\subsection{Σύνοψη}	
 		
 			\paragraph{}{Άρα έχουμε δύο τάσεις : 1.Ολιστική θεώρηση των συστημάτων, 2.Συστηματικός σχεδιασμός... των συστημάτων. Και οι δυο οδήγησαν στη μοντελοποίηση -τουλάχιστον όσον αφορά το μηχανικό- των συστημάτων.
+			}
+			\paragraph{}{Machine design was established as a science in the 1960's with two main approaches : a functional one in West Germany/DDR and a procedural one in Britain and the US. The main motivation was that systematics could help in obtaining the best solution out of many alternatives, and that a methodical approach could increase efficiency and controllability in the design process.
 			}
 		
 		\subsection{Μηχανοτρονικό σύστημα}
@@ -626,7 +634,7 @@ with Safety Engineering [2010]}{Στην οπτική του 3+1 SysML view mode
 			\paragraph{} {Οι μηχανικοί συστημάτων χρησιμοποιούν το μοντέλο ως εργαλείο για την καλύτερη κατανόηση του υπό κατασκευή συστήματος, για την ελαχιστοποίηση των διαφορετικών ερμηνειών μεταξύ των εμπλεκόμενων γνωστικών πεδίων, για να εξακριβώσουν την ορθότητα των αποφάσεών τους και εν τέλει για την παράδοση ενός ολοκληρωμένου και σωστού συστήματος. Τ
 			}
 			
-			\paragraph{} {\cite{IntegratedApproachMBMechatronicDesign}}
+			\paragraph{} {\cite{IntegratedApproachMBMechatronicDesign:Qamar2011}}
 			
 			\paragraph{} {The closed loop nature of whole process helps in going back and forth from requirements to concepts and then to solution phase (where functionality is designed) to ensure that the detailed design of the final product/service has characteristics as intended and perceived in the requirements. However effective follow up of this design process by the different participating design teams is a crucial factor in obtaining the final product. This was the major drawback of a document based  approach due to inherent difficulties in maintaining the consistency and validity of the documents by the different design teams. The shortcomings of the document based approach are addressed by the concept of model based systems engineering (MBSE), where it is possible to maintain a good synchronization between system requirements and the evolving design (at various phases of the design process). \cite{ModelBasedBMechatronisSysMLMatlab}
 			}
@@ -723,6 +731,17 @@ with Safety Engineering [2010]}{Στην οπτική του 3+1 SysML view mode
 					\item Τέλος, η αυτόματη παραγωγή της τεκμηρίωσης του μοντέλου μείωσε αισθητά το χρόνο και το κόστος της συγγραφής αναφορών και διαγραμμάτων.
 				\end{itemize}
 				
+			\paragraph{Μοντέλο και αντίληψη}{Υπάρχουν διαφορετικές προσεγγίσεις στο πώς μπορούν να περιγραφεί ένα σύστημα από διαφορετικές οπτικές γωνίες.
+			\begin{itemize}
+				\item Ένα μοντέλο και πολλαπλές όψεις (SysML)
+				\item Ένα μοντέλο για κάθε όψη. \cite{AMechatronicDesignProcessAndItsApplication:Xiu2010}
+			\end{itemize}
+			
+			}
+
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   								Υποενότητα		   					   %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
@@ -746,6 +765,9 @@ with Safety Engineering [2010]}{Στην οπτική του 3+1 SysML view mode
 	\chapter{Μηχανοτρονικό σύστημα}
 		\label{κεφ.:Μηχανοτρονικό σύστημα}
 
+			\paragraph{Design Then Control (DTC)} {In this strategy, the mechanical structure is usually designed first, and then fitted with off-the-shelf electric motors and drive electronics. Finally, a controller is designed and tuned for the existing physical system until the goal is achieved. Therefore, in this classical mechatronic system design process, the structural parameters are assumed to be fixed, and cannot be changed by excluding considerations for either whole system dynamics or control effort points of view. Consequently, this approach leads to a system with non-optimal dynamic performance. In view of the above reason, the recursive integrated design process, called Iterative Design (ID), as shown in Fig. 1(b) was developed for mechatronic systems. This recursive integrated design concept has been used in aviation, precision machinery, robotic, and hard disk designs.\cite{IntegratedDesignForAMechatronicFeedDriveSystemOfMachineTools:Chen2005}		
+			}
+
 			\paragraph{} {To handle mechatronic concepts, one needs both a total view of available technologies and a systematic attitude towards technology combination. \cite{ATheoreticalApproachOnMechatronicsDesign:Buur1990}
 			\linebreak
 			System thinking : Mechatronics is as system for transforming and preserving energy and information. (Takeachl, Y: Mec:batronics and software. J Jpn Soc Prec Eng voJ 52 DO 7, July 1986 (in Japanese)). \cite{ATheoreticalApproachOnMechatronicsDesign:Buur1990} p.15
@@ -765,6 +787,83 @@ with Safety Engineering [2010]}{Στην οπτική του 3+1 SysML view mode
 			\cite{ATheoreticalApproachOnMechatronicsDesign:Buur1990} p27.
 			}
 			
+			\paragraph{} {For machine design, the set of basic design properties have been listed by Tjalve \cite{AShortCourseInIndustrialDesign:Tjalve1979}
+			\begin{itemize}
+				\item for the total product structure (elements, relations)
+				\item for each part form, dimensions, material, surface quality
+			\end{itemize}
+			\cite{ATheoreticalApproachOnMechatronicsDesign:Buur1990} p.57
+			}
+			
+			\paragraph{} {Η ανάλυση μιας λειτουργίας σε υπολειτουργίες είναι εφικτή μόνο όταν έχει γίνει επιλογή του μέσου επίλυσης της λειτουργίας αυτής.
+			
+			}
+			
+			\paragraph{} {Analogies of electro-mechanical systems The well-developed set of theories for the behavior of electronic circuits can be applied
+for the analysis of mechanical systems by establishing dynamical analogies, (RASMUSSEN 1970 in Danish). This is based on the fact that mechanical systems can be considered a network of components, which in a dynamical sense have functions analogous to the capacitor, inductor, and resistor etc. of an electronic circuit. \cite{ATheoreticalApproachOnMechatronicsDesign:Buur1990} p.65			
+			}
+			
+			\paragraph{Αύξηση μηχανοτρονικών συστημάτων}{In response to this call for innovation \cite{MasteringnnovationExploitingIdeasForProfitableGrowth;Deloitte2005}, manufacturers have accelerated their adoption of electronics. Research shows that 92 percent of manufacturers now incorporate electronic elements into their products. \cite{TheMechatronicsSystemDesignBenchmarkReportCoordinatingEngineeringDisciplines}
+			}
+			
+			\paragraph{Πώς και αναζωπυρώθηκε το ενδιαφέρον για τη μηχανοτρονική}{While mechatronics has been historically associated with system products such as vehicles and manufacturing technologies such as robots, these same mechatronic concepts are now appearing in applications such as healthcare. \cite{MechatronicsInActionCaseStudiesInMechatronics:Bradley2010} p.5.			
+			}
+			
+			
+			
+			\paragraph{Καλό παράδειγμα μηχανοτρονικού συστήματος} {A Mechatronic Design Of A Circular Warp Knitting Machine : 
+			\begin{quote}
+			The whole system, including the actuators, software and controls requires synchronization and therefore had to be considered at this conceptual stage. The mechatronic design philosophy then needs to be applied. \cite{AMechatronicDesignOfACircularWarpKnittingMachine:Acar2011} p.74
+			\end{quote}
+			}
+			
+			\paragraph{} {Στο \cite{MechatronicsΑndΤheMotorCar:Seward2011} p.92 τονίζεται ότι τα μηχανοτρονικά συστήματα αναπτύχθηκαν αρκετά νωρίτερα της ραγδαίας εξέλιξης και της μηχανικής λογισμικού. Γίνεται αναφορά στα 1970 και 1980 με παράδειγμα το αυτοκίνητο.
+			\begin{quote}
+			The first component to be replaced by mechatronics was the troublesome contact breaker points. From the 1970s onwards, these were replaced by a non-contact sensor inside the distributor that consisted of a rotating toothed armature (one tooth for each cylinder) that induces a signal from an electromagnetic transponder each time a tooth passes in front of it [7]. This signal was then sent to an electronic ignition control unit that triggered the firing of the coil and hence the spark. This simple innovation produced a stronger and more reliable spark and removed the need for the replacement and maintenance of points. At this stage, the mechanical centrifugal and vacuum advance systems remained.
+			\linebreak The real revolution came in the mid-1980s when advances in electronic fuel injection and microprocessor technology enabled complete control over both ignition and fuel delivery to be contained within a single Engine Control Unit (ECU). This allows for a much clearer separation between sensing, processing and actuation in accordance with mechatronic principles. Both the distributor and the carburettor have now become redundant [6, 10].
+			\end{quote}
+			}
+			
+			\paragraph{} {Mechatronics is a key cornerstone of modern industrial technologies, and it is developed toward more efficient, more convenient, more intelligent, more integrated and human-friendly. \cite{AReviewOfMechatronicsAndBioInspiredMechatronicsSystem:Luoa2008}			
+			}
+			
+			\section{Common mechatronic design methodology}
+			\paragraph{}{For mechatronic design, the high level of complexity in integrating domain-specific design concepts is described as a major challenge (Tomiyama et al., 2007; Gausemeier et al., 2009b). According to our investigations, the factors that lead towards a high complexity in integrating domain-specific design concepts are: lack of availability of a methodology for mechatronic design; low level of cross-disciplinary knowledge of designers; low quality of integration between multi-domain models; high level of difficulty in ensuring consistency between design models; and lack of possibilities to manage cross-domain dependencies. Designing mechatronic products is probably not that difficult if the aim is to search for a possible design concept, and develop it without caring for issues such as searching for alternative design concepts, assessing consequences to select between alternative design concepts, optimizing a design concept, and considering integration issues. Such issues are important to consider during mechatronic design, especially during the design of complex mechatronic products. In the aim of optimizing a mechatronic product, it is important that a designer can modify the product design dynamically, and be able to assess the consequences of different design decisions while trying to find the best among them.\cite{IntegratedApproachMBMechatronicDesign:Qamar2011} p.23
+			}
+			\paragraph{}{As stated by many of the researchers, the fundamental reason leading to the many challenges is the absence of a common mechatronic design methodology. This is again rooted in the fact that theories building upon different axioms cannot easily be joined to a common theory, as described by Tomiyama et al. (2007).\cite{IntegratedApproachMBMechatronicDesign:Qamar2011} p.25
+			}
+
+			\section{The Future}
+			\paragraph{Human-machine cooperation and interaction} {It is evident from the foregoing description that most of them will base on the capability of human-robot cooperation, to work side by side on common space. This is one of the major trends in the next decade. The next future trend is that humans and machine will be able to intercommunicate through speech using natural language, as well as through gestures and body positions. Robot will be capable of autonomic learning from human via observation and imitation and then transmit the skills they have learned to other robot.
+			It is interesting thing concerns enabling robots to understand, react to, and display emotions. This implies the ability to sense and understand body language, facial expressions, tone of voice, gestures, and other manifestations of emotional states. Furthermore, the expression and understanding of emotional states are important parts of human-robot communication. Further said, to develop esthetic sense and ethical awareness for robot are not only possible, but likely. \cite{AReviewOfMechatronicsAndBioInspiredMechatronicsSystem:Luoa2008}
+			}
+			\paragraph{Micro- and nanorobots} {Within the next ten or twenty years, the rapid development in MEMS/NEMS will urge microrobot/nanorobot to be realized and lead to amazing new applications. Even today it is realizable to design a centimeter scale robot, so-called superminirobot, that contains a processor, a camera and one or more other sensors, a motor and controller, a radio, and a battery. We can envision the application that a molecular-sized nanorobots is injected into the bloodstream of a patient. They should be able to locate and destroy tumors, repair aneurisms, and perform a variety of other surgical procedures. 	\cite{AReviewOfMechatronicsAndBioInspiredMechatronicsSystem:Luoa2008}
+			}
+			\paragraph{Reconfigurability} {The self-reconfigurable robots are an autonomous mechatronic systems equipped with control unit, sensors, actuators, power supply, networking unit, and most importantly, reconfigurable modules. In order to meet the demands of the environment, the self-reconfigurable robots can autonomously change their physical reconfigurable modules to join with other modules under computer or human command. With the deformable capability, these robots can go beyond the traditional, fixed-shaped robotic systems, and promise versatile capabilities for a wide range of applications, low cost for constructions, and self-repairing for fault tolerance. The potential applications for self-reconfigurable robots are tremendous. The control issue of a self-reconfigurable robot is a great challenge. In order to execute the desired global action in a given environment, each module, an autonomous and intelligent agent, must cooperate with others. \cite{AReviewOfMechatronicsAndBioInspiredMechatronicsSystem:Luoa2008}			
+			}
+			\paragraph{Self-organization, self-repair, autonomous evolution, and self-replication} {The visualizing scenarios of autonomic machine have been the stuff of many science fiction stories for a long time. The question of machine self-replication is the concern of serious scientists who view self-reproduction as the eventual goal of intelligent machines. Whether true self-reproducing will realize on the horizon? Perhaps they should never exist. Self-repair is a much less controversial issue and much more feasible. Along with the technologies of fault diagnosis and self-maintenance developed vigorously, machines will be able to repair their own failures within the next ten to twenty years. To design and implement a sociable machine is the goal that many scientist work diligently allover life. A few key aspects of human social intelligence were characterized to derive a list of core ingredients for sociable machine, such as being there,  life-like quality, human aware, being understood, socially situated learning (Cynthia L. Breazeal, 2002). Furthermore, the issue inspired by human societies indicated that very large colonies of robots will require some form of organization. It can be visualized that the development of sociable machine will make it possible for groups of sociable machines to organize themselves into operating units most appropriate to a given task. Finally, several past literatures demonstrate that evolutionary or genetic algorithms are very useful optimization tools that can be used to select appropriate machine parameters to accomplish particular goals. If the goals of autonomous evolution to be set by the machine themselves, or by humans interested in developing supermachines, the results would be unpredictable. \cite{AReviewOfMechatronicsAndBioInspiredMechatronicsSystem:Luoa2008}			
+			}
+
+			\section{Relative work}
+			\paragraph{Mechatronic systems controlled by plc} {\cite{ApplyingVDI2206OnMechatronicSystemsControlledByPLC:Bathelt2005} Complements VDI 2206 guideline to provide better support for developing mechatronic systems controlled by a plc. The main concepts that are being introduced are that two more steps in the design process are being used to specify the transition in-between the design phases - from system design to domain specific design and vise versa - for the discussed type of mechatronic system.			
+			}
+			
+			\paragraph{Concurrent engineering of structural and control domain.} {This paper aims at to develop a robust optimization methodology for the mechatronic modules of machine tools by considering all important characteristics from all structural and control domains in one single process. The relationship between these two domains is strongly coupled. In order to reduce the disturbance caused by parameters in either one, the mechanical and controller design domains need to be integrated. Therefore, the concurrent integrated design method Design For Control (DFC), will be employed in this paper. In this connect, it is not only applied to achieve minimal power consumption but also enhance structural performance and system response at same time. \cite{IntegratedDesignForAMechatronicFeedDriveSystemOfMachineTools:Chen2005}.
+			}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\chapter{Μοντελοποίηση}
+	\paragraph{Model Integration}{Two dimensions of model evolution has been proposed by Biehl (2010, chap. 4), a horizontal model evolution, and a vertical model evolution. A horizontal dimension of model evolution involves changing the meta-model that the model conforms to, such as evolution of model from one domain to another. A meta-model of a model describes the abstract syntax that a model must follow (see \cite{SupportingModelEvolutionInModel-drivenDevelopmentOfAutomotiveEmbeddedSystem:Biehl2010}, chap. 2). The vertical model evolution includes operations on models such as adding, deleting, or changing model elements (see \cite{SupportingModelEvolutionInModel-drivenDevelopmentOfAutomotiveEmbeddedSystem:Biehl2010}, chap. 4). \cite{IntegratedApproachMBMechatronicDesign:Qamar2011} p. 31
+	\linebreak Based on the two dimensions of model evolution, two types of integration approaches are presented in literature. The first one targets integration of design models existing within different domains. The second type of integration approaches involve a vertical model evolution, such as the integration of UML (Object Management Group, 2010b) and Simulink (Mathworks, 2010) models \cite{IntegratedApproachMBMechatronicDesign:Qamar2011} p.31
+	\linebreak Recently, it has been proposed to utilize the system-model for establishing the relationships between the domain-specific design models. This potentially means raising the level of abstraction by going from a domain-specific model towards a system model. To support the evolution of models across different domains, different domain-specific models are raised in abstraction towards the system model, and the system model is utilized to establish relationships between the domain-specific models. Approaches that utilize SysML to establish those relationships include the work by Shah \cite{Multi-view ModelingToSupportEmbeddedSystemsEngineeringInSysML:Shah2010} (2010), Paper C, and Paper D. \cite{IntegratedApproachMBMechatronicDesign:Qamar2011} p.32
+	}
+	
+	
+	
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -786,7 +885,63 @@ with Safety Engineering [2010]}{Στην οπτική του 3+1 SysML view mode
 		As demonstrated by HEINZL 1984 and CORDES 1984,1986, the function of a mechatronic system not only depends on the combination of input variables, but also on the previous activities of the system (ie. the 'history' of the system). The same combination of input may cause different functions at different points in time. The functional structure of a mechatronic system seems to be variable and change with the momentary state of the system, BOHME 1978, FURCHERT ET AL 1979. Using state transition diagrams and matrices - tools being borrowed by electronics. \cite{ATheoreticalApproachOnMechatronicsDesign:Buur1990} p.39.
 		}
 
+		\paragraph{}{\cite{AMechatronicDesignProcessAndItsApplication:Xiu2010}The development and adoption of a formal mechatronic system design process is an effective way of improving the mechatronic system design process. A benchmark study relating to the design of a similar product within the chosen company indicates that the development time has been reduced from seven years to one year for a high precision oil lubricating system such as the one illustrated in this chapter. This case study clearly demonstrates that the system structure and the effectiveness of the final design are greatly influenced by the design methodology used to create it. Specifically for this case study example, the following process has been used:
+		\begin{itemize}
+			\item create a working concept supported by working principles and product design elements
+			\item development of functionality through function decomposition in response to perceived user requirements
+			\item detail design and analysis to ensure the concept is fully embodied by using available techniques such as behavioral energy based, kinematic simulations
+			\item prototype testing in lab a using duty cycle
+			\item implementation of a working system in a user environment
+			\item modification in response to actual user requirements.
+		\end{itemize}
+		}
 
+		\paragraph{}{Στο \cite{MechatronicsInActionCaseStudiesInMechatronics:Bradley2010} p.7 τονίζεται η ανάπτυξη των μηχανοτρονικών συστημάτων κυρίως λόγω της παραμετροποίησης των σημερινών γραμμών  παραγωγής και της αύξησης της πολυπλοκότητας αυτών. Αναφέρει ως παραδείγματα τις περιπτώσεις αυτοκινητοβιομηχανιών, φαρμακευτικών εταιριών και εταιριών παραγωγής ενέργειας.
+		\begin{quote}		
+		 With the introduction of the ‘make to order’ paradigm, manufacturing is now
+far more sophisticated than simply mass producing items for inventory. Buyers
+now want to customise everything and to do so at almost the unit level. This has
+necessitated an agility of operations that was previously unimagined.
+Manufacturing groups can now be created [28] ‘on-the-fly’ in response to job
+specifications, which may involve autonomous work-cells moving into varying
+positions as part of a dynamic collaboration. In addition to containing many
+degrees of freedom, each manufacturing cell may also be multi-faceted and
+provide a variety of job functions on a piece by piece basis. For example, a unit
+that is customarily used as a gripper to move completed work-pieces from
+assembly to a conveyor may also from time to time insert a component, and all
+within the same production run.
+Because of the combinational complexity of such systems, the scheduling of
+flexible architecture work groups has attracted the interest of methodologies that
+include game theory [29] and self-organisation [30, 31]. The problems associated
+with flexible groupings are manifold. Any operation that involves autonomous
+vehicular movement must allow for unobtrusive inactive parking, dynamic path
+and scene analysis, unit return and recovery strategy, and self reporting of
+malfunctions and maintenance intervals. All of these are commonplace
+mechatronic system issues.
+The pharmaceutical and power generation industries are also heavily
+dependent on mechatronic devices to provide skilled operations in environments
+where it is either unsafe or inconvenient for humans to work. This includes the
+handling of toxic and radioactive materials and maintenance in heavily polluted
+atmospheric conditions. Automated inspection systems provide 100% quality
+control and dramatically outperform humans in such boring and repetitive tasks.
+		\end{quote}
+		\cite{DesignPrinciplesOfReconfigurableMachines:Reuven2007}
+		}
+		
+		\paragraph{}{Creating complex systems from scratch is time consuming and costly, therefore a strategy often chosen by companies is to evolve existing systems. Yet evolving a system is also complicated. Complex systems are usually the result of multidisciplinary teams, therefore it is essential to understand barriers those teams face when evolving a system.
+		\linebreak From the research carried at Philips Healthcare MRI, we have identified that main evolution barriers employees face are; managing system complexity,communication across disciplines and departments, finding the necessary system information, lack of system overview, and ineffective knowledge sharing. Those barriers were identified as the root cause of many development problems and bad decisions. \cite{SystemEvolutionBarriersAndHowToOvercomeThem:Borches2010}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%		
+		\chapter{SysML}
+		\paragraph{}{explain the usefulness of SysML in the conceptual design phase of product development. \cite{AComputationalProductModelForConceptualDesignUsingSysML:WΓ¶lkl2009}
+		}
+		
+		\paragraph{SysMl not adequate}{It can be concluded here that the approaches such as SysML, SFSL, and A3 overviews can all prove to be benecial in eliminating many of the problems faced during the current state of the practice in conceptual design of mechatronics. However, these languages do not serve the complete purpose of a common system-level modeling language for mechatronic design during the conceptual phase of the development process. \cite{IntegratedApproachMBMechatronicDesign:Qamar2011}
+		}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
@@ -877,7 +1032,7 @@ with Safety Engineering [2010]}{Στην οπτική του 3+1 SysML view mode
 			\paragraph{Παραγωγική διαδικασία} {Η παραγωγική διαδικασία που αναπαριστάμε έχει ως βάση της κυλινδρικά τεμάχια διάφορων χρωμάτων, υλικών και ύψους. Τα τεμάχια αυτά είναι αποθηκευμένα σε μία στοίβα στο σταθμό διανομής {\footnotesize (βλπ ενότ.~\ref{ενότ:Σταθμός διανομής})}. Με τη βοήθεια ενός βραχίονα μεταφέρονται στο σταθμό ελέγχου {\footnotesize (βλπ ενότ.~\ref{ενότ:Σταθμός ελέγχου})} όπου αναγνωρίζεται το χρώμα και το υλικό των κυλίνδρων και ελέγχονται για το ύψος τους. Αν κάποιος κύλινδρος διαθέτει μία ή και περισσότερες μη αποδεκτές ιδιότητες τότε απομακρύνεται από τη γραμμή παραγωγής. Οι αποδεκτοί πλέον κύλινδροι μεταβαίνουν στο σταθμό επεξεργασίας {\footnotesize (βλπ ενότ.~\ref{ενότ:Σταθμός επεξεργασίας})}. Στο σταθμό αυτό δημιουργείται μία οπή στο κέντρο των κυλίνδρων. Στη συνέχεια ελέγχεται αν η η διάτρηση ήταν επιτυχής και εν τέλει αποθηκεύονται στο σταθμό αποθήκευσης {\footnotesize (βλπ ενότ.~\ref{ενότ:Σταθμός αποθήκευσης})} σε μία από τρεις στοίβες ανάλογα με το χρώμα και το υλικό τους. \cite{UMLΕνσωματωμέναΣυστήματα}
 			}
 			
-			\paragraph{} {Ακολουθεί η λειτουργική ανάλυση της κάθε μονάδας παραγωγής και η καταγραφή των επιμέρους μερών τους.}
+			\paragraph{} {Ακολουθεί η λειτουργική ανάλυση της κάθε μονάδας παραγωγής και η καταγραφή των επιμέρους μερών τους.
 			}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2649,19 +2804,7 @@ with Safety Engineering [2010]}{Στην οπτική του 3+1 SysML view mode
 		
 \end{appendices}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	\cleardoublepage
-	\phantomsection
-	\addcontentsline{toc}{chapter}{Ξενόγλωσση Βιβλιογραφία}
-	\label{κεφ.:Ξενόγλωσση Βιβλιογραφία}
-	\fancyhead[LO]{\emph{Ξενόγλωσση Βιβλιογραφία}}
-	\fancyhead[RE]{\emph{Ξενόγλωσση Βιβλιογραφία}}
-	\printbibliography[title={Ξενόγλωσση Βιβλιογραφία}, keyword=english]
-	
-	
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2673,6 +2816,19 @@ with Safety Engineering [2010]}{Στην οπτική του 3+1 SysML view mode
 	\fancyhead[LO]{\emph{Ελληνόγλωσση Βιβλιογραφία}}
 	\fancyhead[RE]{\emph{Ελληνόγλωσση Βιβλιογραφία}}
 	\printbibliography[title={Ελληνόγλωσση Βιβλιογραφία}, keyword=greek]
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%		   								 Κεφάλαιο		   					   %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\cleardoublepage
+	\phantomsection
+	\addcontentsline{toc}{chapter}{Ξενόγλωσση Βιβλιογραφία}
+	\label{κεφ.:Ξενόγλωσση Βιβλιογραφία}
+	\fancyhead[LO]{\emph{Ξενόγλωσση Βιβλιογραφία}}
+	\fancyhead[RE]{\emph{Ξενόγλωσση Βιβλιογραφία}}
+	\printbibliography[title={Ξενόγλωσση Βιβλιογραφία}, keyword=english]
 
 
 
